@@ -27,7 +27,18 @@
 	session_start();
 	$app = AppFactory::create();
 	$repo = new Repository();
-
+	
+	function config()
+	{
+		define('DB_NAME', 'codechef_internship');
+	
+		define('USER','users');
+		define('PROBLEM','problems');
+		define('DIFFICULTY','difficulty');
+		define('TAG','tag');
+		define('USERDEfINED','userDefined');
+	}
+	
 	$app->get('/login', function (Request $request, Response $response) 
 	{
 	    if(empty(CLIENT_ID) || empty(CLIENT_SECRET)) 

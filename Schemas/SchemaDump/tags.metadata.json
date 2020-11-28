@@ -1,0 +1,1 @@
+{"options":{},"indexes":[{"v":{"$numberInt":"2"},"key":{"_id":{"$numberInt":"1"}},"name":"_id_","ns":"codechef_internship.tags"},{"v":{"$numberInt":"2"},"unique":true,"key":{"tag":{"$numberInt":"1"}},"name":"tag_1","ns":"codechef_internship.tags","background":true}],"uuid":"34c8176a711a433a979095e35664f168"}

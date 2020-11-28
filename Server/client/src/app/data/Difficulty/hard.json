@@ -1,0 +1,2748 @@
+[{
+    "problemCode": "AMPUZZLE",
+    "problemName": "Sliding Puzzle",
+    "successfulSubmissions": 0,
+    "accuracy": 0
+},
+{
+    "problemCode": "LALALANT",
+    "problemName": "The Fools Who Dream",
+    "successfulSubmissions": 0,
+    "accuracy": 0
+},
+{
+    "problemCode": "SQRECT",
+    "problemName": "Square in rectangles",
+    "successfulSubmissions": 0,
+    "accuracy": 0
+},
+{
+    "problemCode": "ZUBSPOIL",
+    "problemName": "H - Unpredictable Array",
+    "successfulSubmissions": 0,
+    "accuracy": 0
+},
+{
+    "problemCode": "QSTRING",
+    "problemName": "Stringology is Magic",
+    "successfulSubmissions": 1,
+    "accuracy": 0.17636684303350969
+},
+{
+    "problemCode": "EFLIP",
+    "problemName": "Chef and Edge Flipping",
+    "successfulSubmissions": 2,
+    "accuracy": 13.636363636363635
+},
+{
+    "problemCode": "WESTAND",
+    "problemName": "Chef and Direction",
+    "successfulSubmissions": 4,
+    "accuracy": 5.8139534883720927
+},
+{
+    "problemCode": "PKLVES",
+    "problemName": "Chef and Elephant Tree",
+    "successfulSubmissions": 5,
+    "accuracy": 9.2783505154639183
+},
+{
+    "problemCode": "ACMKANPA",
+    "problemName": "Problem With Strings",
+    "successfulSubmissions": 8,
+    "accuracy": 0.5891016200294551
+},
+{
+    "problemCode": "ADAFARM",
+    "problemName": "Ada Farm",
+    "successfulSubmissions": 8,
+    "accuracy": 14.457831325301203
+},
+{
+    "problemCode": "BHD",
+    "problemName": "Before Having Donuts",
+    "successfulSubmissions": 8,
+    "accuracy": 18.30985915492958
+},
+{
+    "problemCode": "BIBOARD",
+    "problemName": "Binary Board",
+    "successfulSubmissions": 8,
+    "accuracy": 16.666666666666664
+},
+{
+    "problemCode": "CHEFTRI4",
+    "problemName": "Chef and Triangles",
+    "successfulSubmissions": 8,
+    "accuracy": 4.3243243243243246
+},
+{
+    "problemCode": "CHN12",
+    "problemName": "Praveen falls from a tall tree",
+    "successfulSubmissions": 8,
+    "accuracy": 4.918032786885246
+},
+{
+    "problemCode": "CTREE",
+    "problemName": "Chef and Chefcoin",
+    "successfulSubmissions": 8,
+    "accuracy": 17.307692307692307
+},
+{
+    "problemCode": "HARMONY",
+    "problemName": "Harmonious Decorating",
+    "successfulSubmissions": 8,
+    "accuracy": 28.571428571428569
+},
+{
+    "problemCode": "KSUFFIX",
+    "problemName": "K-th Lexicographical Suffix",
+    "successfulSubmissions": 8,
+    "accuracy": 39.393939393939391
+},
+{
+    "problemCode": "LIGHTARE",
+    "problemName": "Find Lighted Area",
+    "successfulSubmissions": 8,
+    "accuracy": 14.666666666666666
+},
+{
+    "problemCode": "M5",
+    "problemName": "Overlapping discs",
+    "successfulSubmissions": 8,
+    "accuracy": 23.52941176470588
+},
+{
+    "problemCode": "MGCHGEOM",
+    "problemName": "Misha and Geometry",
+    "successfulSubmissions": 8,
+    "accuracy": 20.481927710843372
+},
+{
+    "problemCode": "MULHANOI",
+    "problemName": "Again Multi-Peg Tower of Hanoi",
+    "successfulSubmissions": 8,
+    "accuracy": 27.27272727272727
+},
+{
+    "problemCode": "PSTONES",
+    "problemName": "Precious Stones ",
+    "successfulSubmissions": 8,
+    "accuracy": 19.298245614035086
+},
+{
+    "problemCode": "RIVER",
+    "problemName": "Chef at the River",
+    "successfulSubmissions": 8,
+    "accuracy": 13.846153846153847
+},
+{
+    "problemCode": "RIVERLND",
+    "problemName": "Riverland",
+    "successfulSubmissions": 8,
+    "accuracy": 35.714285714285715
+},
+{
+    "problemCode": "SEAPERM3",
+    "problemName": "Sereja and Permutations 3",
+    "successfulSubmissions": 8,
+    "accuracy": 7.6190476190476195
+},
+{
+    "problemCode": "SONIQUE",
+    "problemName": "Sonya and Queries",
+    "successfulSubmissions": 8,
+    "accuracy": 24.324324324324326
+},
+{
+    "problemCode": "TESTGEN",
+    "problemName": "Test Generation",
+    "successfulSubmissions": 8,
+    "accuracy": 66.666666666666657
+},
+{
+    "problemCode": "TRS",
+    "problemName": "Queries on Tree",
+    "successfulSubmissions": 8,
+    "accuracy": 4.7021943573667713
+},
+{
+    "problemCode": "WKPLAN",
+    "problemName": "Chef and Working Plan",
+    "successfulSubmissions": 8,
+    "accuracy": 61.53846153846154
+},
+{
+    "problemCode": "ZUBPALK",
+    "problemName": "G - Palace of King",
+    "successfulSubmissions": 8,
+    "accuracy": 15.909090909090908
+},
+{
+    "problemCode": "ADJLEAF",
+    "problemName": "Adjacent leaves",
+    "successfulSubmissions": 9,
+    "accuracy": 30.76923076923077
+},
+{
+    "problemCode": "ALMROW",
+    "problemName": "Bear and Almost Row",
+    "successfulSubmissions": 9,
+    "accuracy": 9.7826086956521738
+},
+{
+    "problemCode": "ARCHPLG",
+    "problemName": "The Archipelago",
+    "successfulSubmissions": 9,
+    "accuracy": 35.555555555555557
+},
+{
+    "problemCode": "ARRANGE2",
+    "problemName": "Rearranging Digits",
+    "successfulSubmissions": 9,
+    "accuracy": 5.286343612334802
+},
+{
+    "problemCode": "ASTRD",
+    "problemName": "Asteroids",
+    "successfulSubmissions": 9,
+    "accuracy": 15.789473684210526
+},
+{
+    "problemCode": "AVDWAST",
+    "problemName": "Avoid Wasting",
+    "successfulSubmissions": 9,
+    "accuracy": 10.526315789473683
+},
+{
+    "problemCode": "BIGTREE",
+    "problemName": "Big Search Trees",
+    "successfulSubmissions": 9,
+    "accuracy": 2.8985507246376812
+},
+{
+    "problemCode": "BOUNCE",
+    "problemName": "Advanced Cooking Machine",
+    "successfulSubmissions": 9,
+    "accuracy": 14.634146341463413
+},
+{
+    "problemCode": "CAKE2AM",
+    "problemName": "Chef and the Cake II",
+    "successfulSubmissions": 9,
+    "accuracy": 28.07017543859649
+},
+{
+    "problemCode": "CHEFPOL",
+    "problemName": "Chef and Polyhedron",
+    "successfulSubmissions": 9,
+    "accuracy": 40
+},
+{
+    "problemCode": "CHEFSUMS",
+    "problemName": "Chef and Sums",
+    "successfulSubmissions": 9,
+    "accuracy": 10.138248847926267
+},
+{
+    "problemCode": "CHEFTRAF",
+    "problemName": "Traffic in Chefland",
+    "successfulSubmissions": 9,
+    "accuracy": 30.952380952380953
+},
+{
+    "problemCode": "CHEFTRE",
+    "problemName": "Chef and Tree",
+    "successfulSubmissions": 9,
+    "accuracy": 13.592233009708737
+},
+{
+    "problemCode": "CHN04",
+    "problemName": "Malvika gets bored along with her Cats",
+    "successfulSubmissions": 9,
+    "accuracy": 3.1007751937984498
+},
+{
+    "problemCode": "CHN10",
+    "problemName": "Animesh does not gift Malvika on her birthday",
+    "successfulSubmissions": 9,
+    "accuracy": 37.5
+},
+{
+    "problemCode": "CIELKARA",
+    "problemName": "Ciel and Karaoke",
+    "successfulSubmissions": 9,
+    "accuracy": 37.931034482758619
+},
+{
+    "problemCode": "CKSCHOOL",
+    "problemName": "Preferred Cooking Schools",
+    "successfulSubmissions": 9,
+    "accuracy": 14.942528735632186
+},
+{
+    "problemCode": "CPP",
+    "problemName": "Chef Protection Plan",
+    "successfulSubmissions": 9,
+    "accuracy": 31.067961165048541
+},
+{
+    "problemCode": "DDART",
+    "problemName": "D-Dart",
+    "successfulSubmissions": 9,
+    "accuracy": 17.910447761194028
+},
+{
+    "problemCode": "DISCAREA",
+    "problemName": "Black Discs",
+    "successfulSubmissions": 9,
+    "accuracy": 19.148936170212767
+},
+{
+    "problemCode": "DISTRING",
+    "problemName": "Distinct Rows in Submatrices",
+    "successfulSubmissions": 9,
+    "accuracy": 17.647058823529413
+},
+{
+    "problemCode": "DUALPAL",
+    "problemName": "Chef and the Dual Palindromes",
+    "successfulSubmissions": 9,
+    "accuracy": 7.4380165289256199
+},
+{
+    "problemCode": "GENIND",
+    "problemName": "Generalized Independent Sets",
+    "successfulSubmissions": 9,
+    "accuracy": 54.54545454545454
+},
+{
+    "problemCode": "HAMEL",
+    "problemName": "Hamel Paths",
+    "successfulSubmissions": 9,
+    "accuracy": 33.333333333333329
+},
+{
+    "problemCode": "JAKKU",
+    "problemName": "Rebel rescue",
+    "successfulSubmissions": 9,
+    "accuracy": 31.578947368421051
+},
+{
+    "problemCode": "LAMQUGAM",
+    "problemName": "Lame Queen Game",
+    "successfulSubmissions": 9,
+    "accuracy": 26.086956521739129
+},
+{
+    "problemCode": "LEPAPER",
+    "problemName": "Little Elephant and Sheet",
+    "successfulSubmissions": 9,
+    "accuracy": 23.684210526315788
+},
+{
+    "problemCode": "LONGART",
+    "problemName": "Longest Article",
+    "successfulSubmissions": 9,
+    "accuracy": 11.538461538461538
+},
+{
+    "problemCode": "LVMFFN",
+    "problemName": "LOVEMUFFIN",
+    "successfulSubmissions": 9,
+    "accuracy": 19.767441860465116
+},
+{
+    "problemCode": "M1",
+    "problemName": "The Mine Field",
+    "successfulSubmissions": 9,
+    "accuracy": 21.276595744680851
+},
+{
+    "problemCode": "OWCAFILE",
+    "problemName": "OWCA Files",
+    "successfulSubmissions": 9,
+    "accuracy": 13.20754716981132
+},
+{
+    "problemCode": "POLCHAIN",
+    "problemName": "Polygon Chain",
+    "successfulSubmissions": 9,
+    "accuracy": 28.571428571428569
+},
+{
+    "problemCode": "REBTET",
+    "problemName": "Nikitosh and Sauron-tetrahedron",
+    "successfulSubmissions": 9,
+    "accuracy": 33.333333333333329
+},
+{
+    "problemCode": "RUBBER",
+    "problemName": "Rubber Band",
+    "successfulSubmissions": 9,
+    "accuracy": 34.482758620689658
+},
+{
+    "problemCode": "SEABOX",
+    "problemName": "Sereja and BOX",
+    "successfulSubmissions": 9,
+    "accuracy": 25
+},
+{
+    "problemCode": "SEQTOWER",
+    "problemName": "Adding Up Sequences of Towers",
+    "successfulSubmissions": 9,
+    "accuracy": 17.543859649122805
+},
+{
+    "problemCode": "SIMPPOLY",
+    "problemName": "A Simple Polygon",
+    "successfulSubmissions": 9,
+    "accuracy": 10.416666666666668
+},
+{
+    "problemCode": "STEPNUMS",
+    "problemName": "Stepping Numbers",
+    "successfulSubmissions": 9,
+    "accuracy": 11.538461538461538
+},
+{
+    "problemCode": "TERVEC",
+    "problemName": "Terrible vectors",
+    "successfulSubmissions": 9,
+    "accuracy": 25.581395348837212
+},
+{
+    "problemCode": "TREEQ1",
+    "problemName": "Tree Query",
+    "successfulSubmissions": 9,
+    "accuracy": 23.728813559322035
+},
+{
+    "problemCode": "TRICONT",
+    "problemName": "Chef and Guard Towers",
+    "successfulSubmissions": 9,
+    "accuracy": 15.384615384615385
+},
+{
+    "problemCode": "TSEQ",
+    "problemName": "Tree Sequences",
+    "successfulSubmissions": 9,
+    "accuracy": 26.315789473684209
+},
+{
+    "problemCode": "TUZTRN",
+    "problemName": "Puppy and Triangles",
+    "successfulSubmissions": 9,
+    "accuracy": 7.042253521126761
+},
+{
+    "problemCode": "ZUBSECRT",
+    "problemName": "I - Secrets",
+    "successfulSubmissions": 9,
+    "accuracy": 14.432989690721648
+},
+{
+    "problemCode": "ACMKANPE",
+    "problemName": "Algebra Express",
+    "successfulSubmissions": 10,
+    "accuracy": 12.173913043478262
+},
+{
+    "problemCode": "APRPS",
+    "problemName": "Irrational Root",
+    "successfulSubmissions": 10,
+    "accuracy": 31.329113924050635
+},
+{
+    "problemCode": "BEARTRAP",
+    "problemName": "Bear and Cat Trap",
+    "successfulSubmissions": 10,
+    "accuracy": 83.333333333333343
+},
+{
+    "problemCode": "BIPPAIR",
+    "problemName": "Precise Bipartite Pairing",
+    "successfulSubmissions": 10,
+    "accuracy": 27.777777777777779
+},
+{
+    "problemCode": "CHEFLST",
+    "problemName": "Chef and Lost Story",
+    "successfulSubmissions": 10,
+    "accuracy": 20
+},
+{
+    "problemCode": "CHEFPC",
+    "problemName": "Polygon & Circles",
+    "successfulSubmissions": 10,
+    "accuracy": 31.428571428571427
+},
+{
+    "problemCode": "CLUE",
+    "problemName": "Get a Clue",
+    "successfulSubmissions": 10,
+    "accuracy": 23.255813953488371
+},
+{
+    "problemCode": "CUREK",
+    "problemName": "Curing Kingdom",
+    "successfulSubmissions": 10,
+    "accuracy": 52.380952380952387
+},
+{
+    "problemCode": "CYDB",
+    "problemName": "Can you do it better",
+    "successfulSubmissions": 10,
+    "accuracy": 12.987012987012985
+},
+{
+    "problemCode": "ESCAPE",
+    "problemName": "Escape The Ruins",
+    "successfulSubmissions": 10,
+    "accuracy": 33.333333333333329
+},
+{
+    "problemCode": "EXPTREES",
+    "problemName": "Expected Spanning Trees",
+    "successfulSubmissions": 10,
+    "accuracy": 55.000000000000007
+},
+{
+    "problemCode": "FCTR",
+    "problemName": "Factorize",
+    "successfulSubmissions": 10,
+    "accuracy": 8.9285714285714288
+},
+{
+    "problemCode": "G4",
+    "problemName": "Alien language",
+    "successfulSubmissions": 10,
+    "accuracy": 20
+},
+{
+    "problemCode": "G5",
+    "problemName": "Chemical reactions",
+    "successfulSubmissions": 10,
+    "accuracy": 34.210526315789473
+},
+{
+    "problemCode": "GQUERY",
+    "problemName": "Game Revisited",
+    "successfulSubmissions": 10,
+    "accuracy": 57.894736842105267
+},
+{
+    "problemCode": "GST",
+    "problemName": "Generalized Spanning Trees",
+    "successfulSubmissions": 10,
+    "accuracy": 35
+},
+{
+    "problemCode": "INVBINCF",
+    "problemName": "Inverse Binomial Coefficient",
+    "successfulSubmissions": 10,
+    "accuracy": 30.555555555555557
+},
+{
+    "problemCode": "J4",
+    "problemName": "Effective Sets",
+    "successfulSubmissions": 10,
+    "accuracy": 4.5081967213114753
+},
+{
+    "problemCode": "J6",
+    "problemName": "Help the judge",
+    "successfulSubmissions": 10,
+    "accuracy": 41.791044776119399
+},
+{
+    "problemCode": "JIIT",
+    "problemName": "Queries on Matrix",
+    "successfulSubmissions": 10,
+    "accuracy": 13.253012048192772
+},
+{
+    "problemCode": "LIGHTING",
+    "problemName": "Lighting the shop",
+    "successfulSubmissions": 10,
+    "accuracy": 3.8461538461538463
+},
+{
+    "problemCode": "LMATRIX3",
+    "problemName": "Make It Zero 3",
+    "successfulSubmissions": 10,
+    "accuracy": 28.888888888888886
+},
+{
+    "problemCode": "M4",
+    "problemName": "Toll Trolls",
+    "successfulSubmissions": 10,
+    "accuracy": 25.641025641025639
+},
+{
+    "problemCode": "MGCHPERM",
+    "problemName": "Misha and Permutation",
+    "successfulSubmissions": 10,
+    "accuracy": 50
+},
+{
+    "problemCode": "MULDIG",
+    "problemName": "Multiplication Program",
+    "successfulSubmissions": 10,
+    "accuracy": 30.303030303030305
+},
+{
+    "problemCode": "N2",
+    "problemName": "Heroes of Magical Might",
+    "successfulSubmissions": 10,
+    "accuracy": 61.111111111111114
+},
+{
+    "problemCode": "ORDNCHS",
+    "problemName": "Order and Chaos (Interactive)",
+    "successfulSubmissions": 10,
+    "accuracy": 39.285714285714285
+},
+{
+    "problemCode": "PALSTR",
+    "problemName": "Chef And Palindromes",
+    "successfulSubmissions": 10,
+    "accuracy": 18.64406779661017
+},
+{
+    "problemCode": "PLUSEQ",
+    "problemName": "Plus Equation",
+    "successfulSubmissions": 10,
+    "accuracy": 11.235955056179774
+},
+{
+    "problemCode": "POLICE",
+    "problemName": "Police and Thieves",
+    "successfulSubmissions": 10,
+    "accuracy": 13
+},
+{
+    "problemCode": "POLYSTR",
+    "problemName": "Polygon and String",
+    "successfulSubmissions": 10,
+    "accuracy": 28.000000000000004
+},
+{
+    "problemCode": "POST",
+    "problemName": "Post Office",
+    "successfulSubmissions": 10,
+    "accuracy": 1.240694789081886
+},
+{
+    "problemCode": "REARRAN",
+    "problemName": "Rearrangement",
+    "successfulSubmissions": 10,
+    "accuracy": 13.194444444444445
+},
+{
+    "problemCode": "SNCK02",
+    "problemName": "Powerful Strongholds",
+    "successfulSubmissions": 10,
+    "accuracy": 58.82352941176471
+},
+{
+    "problemCode": "SSPLD",
+    "problemName": "S Semi-palindromic",
+    "successfulSubmissions": 10,
+    "accuracy": 23.52941176470588
+},
+{
+    "problemCode": "VILLNET",
+    "problemName": "Village Road Network",
+    "successfulSubmissions": 10,
+    "accuracy": 36.84210526315789
+},
+{
+    "problemCode": "WAYPA",
+    "problemName": "Trip and Palindromes",
+    "successfulSubmissions": 10,
+    "accuracy": 9.375
+},
+{
+    "problemCode": "A7",
+    "problemName": "A Christmas Pizza Puzzle",
+    "successfulSubmissions": 11,
+    "accuracy": 25.373134328358208
+},
+{
+    "problemCode": "ACMKANPC",
+    "problemName": "Traffic Jam",
+    "successfulSubmissions": 11,
+    "accuracy": 37.5
+},
+{
+    "problemCode": "ADJLEAF2",
+    "problemName": "Adjacent Leaves ",
+    "successfulSubmissions": 11,
+    "accuracy": 44
+},
+{
+    "problemCode": "BINOMSUM",
+    "problemName": "Day Schedule",
+    "successfulSubmissions": 11,
+    "accuracy": 19.298245614035086
+},
+{
+    "problemCode": "CHEFARMY",
+    "problemName": "Chefland Army",
+    "successfulSubmissions": 11,
+    "accuracy": 65
+},
+{
+    "problemCode": "CHEFPIC",
+    "problemName": "Picnic with Chef",
+    "successfulSubmissions": 11,
+    "accuracy": 38.70967741935484
+},
+{
+    "problemCode": "CHEF_GAM",
+    "problemName": "Chefs Game",
+    "successfulSubmissions": 11,
+    "accuracy": 8.7557603686635943
+},
+{
+    "problemCode": "CIELBALL",
+    "problemName": "Ciel and Ball Guessing Game",
+    "successfulSubmissions": 11,
+    "accuracy": 35.135135135135137
+},
+{
+    "problemCode": "CIELWALK",
+    "problemName": "Ciel and Random Walk",
+    "successfulSubmissions": 11,
+    "accuracy": 26.315789473684209
+},
+{
+    "problemCode": "DEG3MAXT",
+    "problemName": "Three-Degree-Bounded Maximum Cost Subtree",
+    "successfulSubmissions": 11,
+    "accuracy": 61.29032258064516
+},
+{
+    "problemCode": "DIGITS2",
+    "problemName": "Product of Digits Again",
+    "successfulSubmissions": 11,
+    "accuracy": 38.70967741935484
+},
+{
+    "problemCode": "DIVNODIV",
+    "problemName": "Divisors number divisibility",
+    "successfulSubmissions": 11,
+    "accuracy": 25.252525252525253
+},
+{
+    "problemCode": "GEOXD",
+    "problemName": "Easy Geo xD",
+    "successfulSubmissions": 11,
+    "accuracy": 30.434782608695656
+},
+{
+    "problemCode": "GRAPHCT",
+    "problemName": "Graph Counting",
+    "successfulSubmissions": 11,
+    "accuracy": 39.285714285714285
+},
+{
+    "problemCode": "LLLGRAPH",
+    "problemName": "Line Line Line Graph",
+    "successfulSubmissions": 11,
+    "accuracy": 16.091954022988507
+},
+{
+    "problemCode": "MUFFINS2",
+    "problemName": "Frosting Cupcakes",
+    "successfulSubmissions": 11,
+    "accuracy": 16.923076923076923
+},
+{
+    "problemCode": "NPIN",
+    "problemName": "Needles and Pins",
+    "successfulSubmissions": 11,
+    "accuracy": 55.172413793103445
+},
+{
+    "problemCode": "OVENTIME",
+    "problemName": "Renting Spare Oven Time",
+    "successfulSubmissions": 11,
+    "accuracy": 25
+},
+{
+    "problemCode": "PRECPAIR",
+    "problemName": "Precise Pairing",
+    "successfulSubmissions": 11,
+    "accuracy": 37.142857142857146
+},
+{
+    "problemCode": "REVERSED",
+    "problemName": "The Reversed World",
+    "successfulSubmissions": 11,
+    "accuracy": 13.978494623655912
+},
+{
+    "problemCode": "RUSHHOUR",
+    "problemName": "Rush Hour",
+    "successfulSubmissions": 11,
+    "accuracy": 32.786885245901637
+},
+{
+    "problemCode": "STARROAD",
+    "problemName": "Roads in Stars",
+    "successfulSubmissions": 11,
+    "accuracy": 27.450980392156865
+},
+{
+    "problemCode": "STRSUM",
+    "problemName": "Pairwise String Sums",
+    "successfulSubmissions": 11,
+    "accuracy": 35.294117647058826
+},
+{
+    "problemCode": "TREEBAL",
+    "problemName": "Tree Balancing",
+    "successfulSubmissions": 11,
+    "accuracy": 32.432432432432435
+},
+{
+    "problemCode": "WEASELSC",
+    "problemName": "Weasel finds Staircase",
+    "successfulSubmissions": 11,
+    "accuracy": 17.21311475409836
+},
+{
+    "problemCode": "WRDSUM",
+    "problemName": "Weird Sum",
+    "successfulSubmissions": 11,
+    "accuracy": 25
+},
+{
+    "problemCode": "YAEXP",
+    "problemName": "Yet another expected value problem",
+    "successfulSubmissions": 11,
+    "accuracy": 17.021276595744681
+},
+{
+    "problemCode": "A5",
+    "problemName": "Packing the Boxes",
+    "successfulSubmissions": 12,
+    "accuracy": 8.6419753086419746
+},
+{
+    "problemCode": "A8",
+    "problemName": "The Bytelandian Union",
+    "successfulSubmissions": 12,
+    "accuracy": 7.0175438596491224
+},
+{
+    "problemCode": "APAIRS",
+    "problemName": "Scoring Pairs",
+    "successfulSubmissions": 12,
+    "accuracy": 21.428571428571427
+},
+{
+    "problemCode": "CHNBGMT",
+    "problemName": "Chef and Big Matrix",
+    "successfulSubmissions": 12,
+    "accuracy": 21.428571428571427
+},
+{
+    "problemCode": "CLANDLBL",
+    "problemName": "Chef And Land Labeling",
+    "successfulSubmissions": 12,
+    "accuracy": 33.333333333333329
+},
+{
+    "problemCode": "CONPOIN",
+    "problemName": "Connect Points",
+    "successfulSubmissions": 12,
+    "accuracy": 36.206896551724135
+},
+{
+    "problemCode": "CSTREE",
+    "problemName": "Complement Spanning Trees",
+    "successfulSubmissions": 12,
+    "accuracy": 33.333333333333329
+},
+{
+    "problemCode": "DFSGRID",
+    "problemName": "Chef and The Recursive Algorithm",
+    "successfulSubmissions": 12,
+    "accuracy": 12.396694214876034
+},
+{
+    "problemCode": "GOODGAL",
+    "problemName": "Good galaxy",
+    "successfulSubmissions": 12,
+    "accuracy": 35.294117647058826
+},
+{
+    "problemCode": "HULL",
+    "problemName": "Magic Hull",
+    "successfulSubmissions": 12,
+    "accuracy": 23.076923076923077
+},
+{
+    "problemCode": "KOL16I",
+    "problemName": "Roads",
+    "successfulSubmissions": 12,
+    "accuracy": 29.166666666666668
+},
+{
+    "problemCode": "M2",
+    "problemName": "Motorbike Racing",
+    "successfulSubmissions": 12,
+    "accuracy": 25.600000000000001
+},
+{
+    "problemCode": "MINDEG",
+    "problemName": "Minimum of Degrees",
+    "successfulSubmissions": 12,
+    "accuracy": 77.777777777777786
+},
+{
+    "problemCode": "MINWDSUM",
+    "problemName": "Minimal Weighted Digit Sum",
+    "successfulSubmissions": 12,
+    "accuracy": 22.340425531914892
+},
+{
+    "problemCode": "NOSS",
+    "problemName": "Maximize the NOSS",
+    "successfulSubmissions": 12,
+    "accuracy": 31.081081081081081
+},
+{
+    "problemCode": "PSUM",
+    "problemName": "Power Sum",
+    "successfulSubmissions": 12,
+    "accuracy": 14.189189189189189
+},
+{
+    "problemCode": "QPOLYSUM",
+    "problemName": "Quasi-Polynomial Sum",
+    "successfulSubmissions": 12,
+    "accuracy": 31.666666666666664
+},
+{
+    "problemCode": "SCIENCEF",
+    "problemName": "Science Fair",
+    "successfulSubmissions": 12,
+    "accuracy": 38.095238095238095
+},
+{
+    "problemCode": "WINDOW",
+    "problemName": "Chef attic window",
+    "successfulSubmissions": 12,
+    "accuracy": 14.705882352941178
+},
+{
+    "problemCode": "XORTREEH",
+    "problemName": "Chef and Horcrux",
+    "successfulSubmissions": 12,
+    "accuracy": 26.785714285714285
+},
+{
+    "problemCode": "ZUBHTREE",
+    "problemName": "F - Huge Number of Trees",
+    "successfulSubmissions": 12,
+    "accuracy": 29.09090909090909
+},
+{
+    "problemCode": "ARMYOFME",
+    "problemName": "Army of Me",
+    "successfulSubmissions": 13,
+    "accuracy": 31.578947368421051
+},
+{
+    "problemCode": "CLTNGL",
+    "problemName": "Triangles in a Grid",
+    "successfulSubmissions": 13,
+    "accuracy": 82.35294117647058
+},
+{
+    "problemCode": "D7",
+    "problemName": "Alien Clock",
+    "successfulSubmissions": 13,
+    "accuracy": 25.925925925925924
+},
+{
+    "problemCode": "DORADM01",
+    "problemName": "Lights Out",
+    "successfulSubmissions": 13,
+    "accuracy": 42.222222222222221
+},
+{
+    "problemCode": "EXPCOMM",
+    "problemName": "Exponentiation Commutativity",
+    "successfulSubmissions": 13,
+    "accuracy": 33.333333333333329
+},
+{
+    "problemCode": "GOODSEGS",
+    "problemName": "Good Subsequences",
+    "successfulSubmissions": 13,
+    "accuracy": 63.829787234042556
+},
+{
+    "problemCode": "HPARITY",
+    "problemName": "Coloring in Hypercube",
+    "successfulSubmissions": 13,
+    "accuracy": 60.869565217391312
+},
+{
+    "problemCode": "IMPROVE",
+    "problemName": "Improve the Permutation",
+    "successfulSubmissions": 13,
+    "accuracy": 32.608695652173914
+},
+{
+    "problemCode": "J5",
+    "problemName": "Magic Strings",
+    "successfulSubmissions": 13,
+    "accuracy": 24.324324324324326
+},
+{
+    "problemCode": "ALLPOLY",
+    "problemName": "Defend the Recipe",
+    "successfulSubmissions": 14,
+    "accuracy": 12.711864406779661
+},
+{
+    "problemCode": "BESTTRI",
+    "problemName": "Best Triangle",
+    "successfulSubmissions": 14,
+    "accuracy": 32.758620689655174
+},
+{
+    "problemCode": "CHEFONM",
+    "problemName": "Chef and Sort",
+    "successfulSubmissions": 14,
+    "accuracy": 59.259259259259252
+},
+{
+    "problemCode": "CIELHACK",
+    "problemName": "Ciel and password cracking",
+    "successfulSubmissions": 14,
+    "accuracy": 46.666666666666664
+},
+{
+    "problemCode": "DMCS",
+    "problemName": "Dai Ma Chu Shi",
+    "successfulSubmissions": 14,
+    "accuracy": 60.869565217391312
+},
+{
+    "problemCode": "DPOWPERM",
+    "problemName": "D-Power Permutations",
+    "successfulSubmissions": 14,
+    "accuracy": 28.846153846153843
+},
+{
+    "problemCode": "EXPREP",
+    "problemName": "Expected Repetitions",
+    "successfulSubmissions": 14,
+    "accuracy": 26
+},
+{
+    "problemCode": "GRIDGAME",
+    "problemName": "Game on a Grid",
+    "successfulSubmissions": 14,
+    "accuracy": 16
+},
+{
+    "problemCode": "KOL15E",
+    "problemName": "Weird Paths in a tree",
+    "successfulSubmissions": 14,
+    "accuracy": 36.734693877551024
+},
+{
+    "problemCode": "LELUCKYN",
+    "problemName": "Little Elephant and Lucky Segment",
+    "successfulSubmissions": 14,
+    "accuracy": 4.6232876712328768
+},
+{
+    "problemCode": "MOVCOIN2",
+    "problemName": "Move the Coins 2",
+    "successfulSubmissions": 14,
+    "accuracy": 34.920634920634917
+},
+{
+    "problemCode": "MXMN",
+    "problemName": "Maximum and Minimum",
+    "successfulSubmissions": 14,
+    "accuracy": 15.217391304347828
+},
+{
+    "problemCode": "PRDIVSUM",
+    "problemName": "Sum Divides Product",
+    "successfulSubmissions": 14,
+    "accuracy": 5.7761732851985563
+},
+{
+    "problemCode": "REACHRIG",
+    "problemName": "Reaching the Rig",
+    "successfulSubmissions": 14,
+    "accuracy": 6.8259385665529013
+},
+{
+    "problemCode": "RGY",
+    "problemName": "Chef Thanos Wants Perfect Balance",
+    "successfulSubmissions": 14,
+    "accuracy": 55.000000000000007
+},
+{
+    "problemCode": "SNCK03",
+    "problemName": "Alternating Permutations",
+    "successfulSubmissions": 14,
+    "accuracy": 41.463414634146339
+},
+{
+    "problemCode": "SONATR",
+    "problemName": "Sonya and Tree",
+    "successfulSubmissions": 14,
+    "accuracy": 23.52941176470588
+},
+{
+    "problemCode": "SONGIF",
+    "problemName": "Sonya and Gifts",
+    "successfulSubmissions": 14,
+    "accuracy": 25.97402597402597
+},
+{
+    "problemCode": "STRQUER",
+    "problemName": "Strange Queries",
+    "successfulSubmissions": 14,
+    "accuracy": 15.178571428571427
+},
+{
+    "problemCode": "XORSORT2",
+    "problemName": "Unusual Sorting",
+    "successfulSubmissions": 14,
+    "accuracy": 10.16949152542373
+},
+{
+    "problemCode": "CHEFSPAG",
+    "problemName": "Chef has a Spaghetti Garden",
+    "successfulSubmissions": 15,
+    "accuracy": 18.390804597701148
+},
+{
+    "problemCode": "DIVISORS",
+    "problemName": "Something About Divisors",
+    "successfulSubmissions": 15,
+    "accuracy": 14.0625
+},
+{
+    "problemCode": "EVENPOLY",
+    "problemName": "Even Coefficients",
+    "successfulSubmissions": 15,
+    "accuracy": 38.636363636363633
+},
+{
+    "problemCode": "ISOARRAY",
+    "problemName": "Chef and Isomorphic Array",
+    "successfulSubmissions": 15,
+    "accuracy": 14.193548387096774
+},
+{
+    "problemCode": "KILLER",
+    "problemName": "Painting Tree",
+    "successfulSubmissions": 15,
+    "accuracy": 20.388349514563107
+},
+{
+    "problemCode": "LKYEDGE",
+    "problemName": "Lucky Edge",
+    "successfulSubmissions": 15,
+    "accuracy": 13.475177304964539
+},
+{
+    "problemCode": "MDSWIN",
+    "problemName": "Winning Ways",
+    "successfulSubmissions": 15,
+    "accuracy": 39.130434782608695
+},
+{
+    "problemCode": "MEETUP",
+    "problemName": "Meeting location",
+    "successfulSubmissions": 15,
+    "accuracy": 24.637681159420293
+},
+{
+    "problemCode": "PBOXES",
+    "problemName": "Pretty Boxes",
+    "successfulSubmissions": 15,
+    "accuracy": 40.28776978417266
+},
+{
+    "problemCode": "PFRUIT",
+    "problemName": "Picking Fruit for Chefs",
+    "successfulSubmissions": 15,
+    "accuracy": 49.295774647887328
+},
+{
+    "problemCode": "RNBWROAD",
+    "problemName": "Chef and Rainbow Road",
+    "successfulSubmissions": 15,
+    "accuracy": 30.555555555555557
+},
+{
+    "problemCode": "ROOTMST",
+    "problemName": "Rooted Minimum Spanning Tree",
+    "successfulSubmissions": 15,
+    "accuracy": 30.76923076923077
+},
+{
+    "problemCode": "SEAINVS",
+    "problemName": "Sereja and Inversions",
+    "successfulSubmissions": 15,
+    "accuracy": 24.242424242424242
+},
+{
+    "problemCode": "SERVERS",
+    "problemName": "Communicating Servers",
+    "successfulSubmissions": 15,
+    "accuracy": 35.593220338983052
+},
+{
+    "problemCode": "TUPLES",
+    "problemName": "Coprime 6-tuples",
+    "successfulSubmissions": 15,
+    "accuracy": 17.266187050359711
+},
+{
+    "problemCode": "XRMTRX",
+    "problemName": "Xor Matrix",
+    "successfulSubmissions": 15,
+    "accuracy": 12.820512820512819
+},
+{
+    "problemCode": "BYTESHOP",
+    "problemName": "Bytelandian Shoppers",
+    "successfulSubmissions": 16,
+    "accuracy": 39.024390243902438
+},
+{
+    "problemCode": "CHEFKC",
+    "problemName": "Chef and Cut",
+    "successfulSubmissions": 16,
+    "accuracy": 58.620689655172406
+},
+{
+    "problemCode": "COUPLES",
+    "problemName": "Couples sit next to each other",
+    "successfulSubmissions": 16,
+    "accuracy": 18.947368421052634
+},
+{
+    "problemCode": "DOMNOCUT",
+    "problemName": "Colored Domino Tilings and Cuts",
+    "successfulSubmissions": 16,
+    "accuracy": 31.818181818181817
+},
+{
+    "problemCode": "HYPER",
+    "problemName": "Hypertrees",
+    "successfulSubmissions": 16,
+    "accuracy": 64
+},
+{
+    "problemCode": "INVERT",
+    "problemName": "Gaming Inversion",
+    "successfulSubmissions": 16,
+    "accuracy": 25
+},
+{
+    "problemCode": "LOGO",
+    "problemName": "McHefs 3D Logo",
+    "successfulSubmissions": 16,
+    "accuracy": 94.117647058823522
+},
+{
+    "problemCode": "MXDIST",
+    "problemName": "Maximum Distance",
+    "successfulSubmissions": 16,
+    "accuracy": 14.43661971830986
+},
+{
+    "problemCode": "NGONS",
+    "problemName": "Flipping Polygons",
+    "successfulSubmissions": 16,
+    "accuracy": 28.571428571428569
+},
+{
+    "problemCode": "PPARTS",
+    "problemName": "Perfect Partitions",
+    "successfulSubmissions": 16,
+    "accuracy": 41.379310344827587
+},
+{
+    "problemCode": "SINSUMQ",
+    "problemName": "Sines Sum Queries",
+    "successfulSubmissions": 16,
+    "accuracy": 13.17365269461078
+},
+{
+    "problemCode": "SUBGRAPH",
+    "problemName": "Counting Subgraphs",
+    "successfulSubmissions": 16,
+    "accuracy": 41.509433962264154
+},
+{
+    "problemCode": "ANUSFR",
+    "problemName": "Substring and five rules",
+    "successfulSubmissions": 17,
+    "accuracy": 24.576271186440678
+},
+{
+    "problemCode": "EGGFREE",
+    "problemName": "Egg-free DAG",
+    "successfulSubmissions": 17,
+    "accuracy": 27.868852459016392
+},
+{
+    "problemCode": "FARGRAPH",
+    "problemName": "Far Graphs",
+    "successfulSubmissions": 17,
+    "accuracy": 26.47058823529412
+},
+{
+    "problemCode": "H3",
+    "problemName": "Congruent triangles",
+    "successfulSubmissions": 17,
+    "accuracy": 21.495327102803738
+},
+{
+    "problemCode": "HAUNTED",
+    "problemName": "Haunted Maze",
+    "successfulSubmissions": 17,
+    "accuracy": 29.670329670329672
+},
+{
+    "problemCode": "KOL1511",
+    "problemName": "Wait for it",
+    "successfulSubmissions": 17,
+    "accuracy": 10.160427807486631
+},
+{
+    "problemCode": "KOL16G",
+    "problemName": "Optimal use of Nuclear Power plant ",
+    "successfulSubmissions": 17,
+    "accuracy": 45.614035087719294
+},
+{
+    "problemCode": "MATRIXUM",
+    "problemName": "Matrix Sum",
+    "successfulSubmissions": 17,
+    "accuracy": 29.032258064516132
+},
+{
+    "problemCode": "SPS",
+    "problemName": "Shortest Palindromic Superstring",
+    "successfulSubmissions": 17,
+    "accuracy": 19.827586206896552
+},
+{
+    "problemCode": "CHANGE",
+    "problemName": "Making Change",
+    "successfulSubmissions": 18,
+    "accuracy": 28.828828828828829
+},
+{
+    "problemCode": "DIFVAL",
+    "problemName": "Danya and Different Values",
+    "successfulSubmissions": 18,
+    "accuracy": 19.383259911894275
+},
+{
+    "problemCode": "INMAT",
+    "problemName": "Interactive Matrix",
+    "successfulSubmissions": 18,
+    "accuracy": 4.4009779951100247
+},
+{
+    "problemCode": "MAXDTREE",
+    "problemName": "Max-digit Tree",
+    "successfulSubmissions": 18,
+    "accuracy": 54.54545454545454
+},
+{
+    "problemCode": "REFORMS",
+    "problemName": "Reforms, Reforms Never Change",
+    "successfulSubmissions": 18,
+    "accuracy": 20.175438596491226
+},
+{
+    "problemCode": "TSUM2",
+    "problemName": "Sum on Tree",
+    "successfulSubmissions": 18,
+    "accuracy": 37.931034482758619
+},
+{
+    "problemCode": "TUPLES2",
+    "problemName": "Path Triples On Tree",
+    "successfulSubmissions": 18,
+    "accuracy": 64.516129032258064
+},
+{
+    "problemCode": "CIELQUAK",
+    "problemName": "Ciel and Earthquake",
+    "successfulSubmissions": 19,
+    "accuracy": 14.814814814814813
+},
+{
+    "problemCode": "COOLNUM",
+    "problemName": "Cool Numbers",
+    "successfulSubmissions": 19,
+    "accuracy": 11.666666666666666
+},
+{
+    "problemCode": "E5",
+    "problemName": "Buggy algorithm",
+    "successfulSubmissions": 19,
+    "accuracy": 25.641025641025639
+},
+{
+    "problemCode": "KOL16D",
+    "problemName": "Men and Horses",
+    "successfulSubmissions": 19,
+    "accuracy": 29.72972972972973
+},
+{
+    "problemCode": "OAK",
+    "problemName": "Persistent oak",
+    "successfulSubmissions": 19,
+    "accuracy": 8.9783281733746119
+},
+{
+    "problemCode": "SEAPERMS",
+    "problemName": "Sereja and Permutations",
+    "successfulSubmissions": 19,
+    "accuracy": 24.175824175824175
+},
+{
+    "problemCode": "TABISHOP",
+    "problemName": "Bishops",
+    "successfulSubmissions": 19,
+    "accuracy": 15.09433962264151
+},
+{
+    "problemCode": "BTMNTREE",
+    "problemName": "Batman and Tree",
+    "successfulSubmissions": 20,
+    "accuracy": 31
+},
+{
+    "problemCode": "CNTDIGIT",
+    "problemName": "Count Digits",
+    "successfulSubmissions": 20,
+    "accuracy": 12.790697674418606
+},
+{
+    "problemCode": "CNTL",
+    "problemName": "Counting is life",
+    "successfulSubmissions": 20,
+    "accuracy": 49.275362318840585
+},
+{
+    "problemCode": "E3",
+    "problemName": "Johny the farmer",
+    "successfulSubmissions": 20,
+    "accuracy": 15.5
+},
+{
+    "problemCode": "HBEAR",
+    "problemName": "The Hungry Bear",
+    "successfulSubmissions": 20,
+    "accuracy": 23.423423423423422
+},
+{
+    "problemCode": "MAXCIR",
+    "problemName": "Max Circumference",
+    "successfulSubmissions": 20,
+    "accuracy": 14.207650273224044
+},
+{
+    "problemCode": "TRIPWAYS",
+    "problemName": "A Leisurely Journey",
+    "successfulSubmissions": 20,
+    "accuracy": 17.142857142857142
+},
+{
+    "problemCode": "YASEQ",
+    "problemName": "Yet Another Sequence",
+    "successfulSubmissions": 20,
+    "accuracy": 35.820895522388057
+},
+{
+    "problemCode": "DIVIDEN",
+    "problemName": "Divide or die",
+    "successfulSubmissions": 21,
+    "accuracy": 9.0301003344481607
+},
+{
+    "problemCode": "F4",
+    "problemName": "Se7en",
+    "successfulSubmissions": 21,
+    "accuracy": 4.7516198704103676
+},
+{
+    "problemCode": "MINPOLY",
+    "problemName": "Devu, his sister and Rangoli",
+    "successfulSubmissions": 21,
+    "accuracy": 37.777777777777779
+},
+{
+    "problemCode": "TACTQUER",
+    "problemName": "Shortest path queries",
+    "successfulSubmissions": 21,
+    "accuracy": 14.012738853503185
+},
+{
+    "problemCode": "TREEPATH",
+    "problemName": "Decompose the Tree",
+    "successfulSubmissions": 21,
+    "accuracy": 13.471502590673575
+},
+{
+    "problemCode": "WIQ",
+    "problemName": "Waiting in a Queue",
+    "successfulSubmissions": 21,
+    "accuracy": 12.755102040816327
+},
+{
+    "problemCode": "ABSDIFFS",
+    "problemName": "Absolute Difference Sum",
+    "successfulSubmissions": 22,
+    "accuracy": 14.427860696517413
+},
+{
+    "problemCode": "FGTREE",
+    "problemName": "Forgotten Tree 9",
+    "successfulSubmissions": 22,
+    "accuracy": 25.531914893617021
+},
+{
+    "problemCode": "FLOWERPO",
+    "problemName": "Flower Pots",
+    "successfulSubmissions": 22,
+    "accuracy": 21.428571428571427
+},
+{
+    "problemCode": "KHULJA",
+    "problemName": "Alohomora",
+    "successfulSubmissions": 22,
+    "accuracy": 32.926829268292686
+},
+{
+    "problemCode": "MARTARTS",
+    "problemName": "Martial Arts",
+    "successfulSubmissions": 22,
+    "accuracy": 40.74074074074074
+},
+{
+    "problemCode": "BEARS",
+    "problemName": "Bears and Bees",
+    "successfulSubmissions": 23,
+    "accuracy": 41.818181818181813
+},
+{
+    "problemCode": "CHEFKNN",
+    "problemName": "Chef and Interval Painting",
+    "successfulSubmissions": 23,
+    "accuracy": 21.343873517786559
+},
+{
+    "problemCode": "CMPVIRS",
+    "problemName": "Computer Virus",
+    "successfulSubmissions": 23,
+    "accuracy": 70
+},
+{
+    "problemCode": "CUTTREE",
+    "problemName": "Chef Cuts Tree",
+    "successfulSubmissions": 23,
+    "accuracy": 21.794871794871796
+},
+{
+    "problemCode": "DIGITS",
+    "problemName": "Product of Digits",
+    "successfulSubmissions": 23,
+    "accuracy": 12.152777777777777
+},
+{
+    "problemCode": "EST",
+    "problemName": "Equivalent Suffix Tries",
+    "successfulSubmissions": 23,
+    "accuracy": 29.677419354838708
+},
+{
+    "problemCode": "F6",
+    "problemName": "Divide and conquer",
+    "successfulSubmissions": 23,
+    "accuracy": 34.343434343434339
+},
+{
+    "problemCode": "HLD",
+    "problemName": "Heavy-Light Decomposition",
+    "successfulSubmissions": 23,
+    "accuracy": 15.060240963855422
+},
+{
+    "problemCode": "SHORTCIR",
+    "problemName": "Shortest Circuit Evaluation",
+    "successfulSubmissions": 23,
+    "accuracy": 39.784946236559136
+},
+{
+    "problemCode": "SQRGOOD",
+    "problemName": "Simplify the Square Root",
+    "successfulSubmissions": 23,
+    "accuracy": 16.783216783216783
+},
+{
+    "problemCode": "COOK82E",
+    "problemName": "Binary Tree",
+    "successfulSubmissions": 24,
+    "accuracy": 32.867132867132867
+},
+{
+    "problemCode": "MIXFLVOR",
+    "problemName": "Mixing flavors",
+    "successfulSubmissions": 24,
+    "accuracy": 23.870967741935484
+},
+{
+    "problemCode": "POSTERS",
+    "problemName": "Tidying Posters",
+    "successfulSubmissions": 24,
+    "accuracy": 38.82352941176471
+},
+{
+    "problemCode": "STRQUERY",
+    "problemName": "String Query",
+    "successfulSubmissions": 24,
+    "accuracy": 14.901960784313726
+},
+{
+    "problemCode": "CHEFEQUA",
+    "problemName": "Chef and Equations",
+    "successfulSubmissions": 25,
+    "accuracy": 27.322404371584703
+},
+{
+    "problemCode": "DARTSEGM",
+    "problemName": "Darts",
+    "successfulSubmissions": 25,
+    "accuracy": 22.794117647058822
+},
+{
+    "problemCode": "FURGRAPH",
+    "problemName": "Mario and Luigi",
+    "successfulSubmissions": 25,
+    "accuracy": 18.994413407821227
+},
+{
+    "problemCode": "HIGH",
+    "problemName": "Highways",
+    "successfulSubmissions": 25,
+    "accuracy": 20.149253731343283
+},
+{
+    "problemCode": "BALNET",
+    "problemName": "Balancing Network Revisited",
+    "successfulSubmissions": 26,
+    "accuracy": 29.914529914529915
+},
+{
+    "problemCode": "BUYLAND",
+    "problemName": "Buying Land",
+    "successfulSubmissions": 26,
+    "accuracy": 29.914529914529915
+},
+{
+    "problemCode": "N5",
+    "problemName": "Traffic jam",
+    "successfulSubmissions": 26,
+    "accuracy": 13.364055299539171
+},
+{
+    "problemCode": "ROUTES",
+    "problemName": "Safe Routes",
+    "successfulSubmissions": 26,
+    "accuracy": 25.78125
+},
+{
+    "problemCode": "TWOROADS",
+    "problemName": "Two Roads",
+    "successfulSubmissions": 26,
+    "accuracy": 22.641509433962266
+},
+{
+    "problemCode": "BNGAME",
+    "problemName": "Brand New Game",
+    "successfulSubmissions": 27,
+    "accuracy": 11.397058823529411
+},
+{
+    "problemCode": "CHEFTREE",
+    "problemName": "Chef and Tree",
+    "successfulSubmissions": 27,
+    "accuracy": 18.042813455657491
+},
+{
+    "problemCode": "CUSTPRIM",
+    "problemName": "Payton numbers",
+    "successfulSubmissions": 27,
+    "accuracy": 34.177215189873415
+},
+{
+    "problemCode": "FUNCTION",
+    "problemName": "Backup Functions",
+    "successfulSubmissions": 27,
+    "accuracy": 41.111111111111107
+},
+{
+    "problemCode": "JOSEPHUS",
+    "problemName": "Josephus Again",
+    "successfulSubmissions": 27,
+    "accuracy": 22.413793103448278
+},
+{
+    "problemCode": "MINESREV",
+    "problemName": "Minesweeper Reversed",
+    "successfulSubmissions": 27,
+    "accuracy": 25.624999999999996
+},
+{
+    "problemCode": "PARRTY",
+    "problemName": "Party",
+    "successfulSubmissions": 27,
+    "accuracy": 18.560606060606062
+},
+{
+    "problemCode": "CHEFFIB",
+    "problemName": "Chef, Leonardo And Queries",
+    "successfulSubmissions": 28,
+    "accuracy": 14.556962025316455
+},
+{
+    "problemCode": "SHORT2",
+    "problemName": "Short II",
+    "successfulSubmissions": 28,
+    "accuracy": 29.126213592233007
+},
+{
+    "problemCode": "STREDUC",
+    "problemName": "Reduce string",
+    "successfulSubmissions": 28,
+    "accuracy": 20.547945205479451
+},
+{
+    "problemCode": "TROOT",
+    "problemName": "Roots of a Tree",
+    "successfulSubmissions": 28,
+    "accuracy": 18.300653594771241
+},
+{
+    "problemCode": "BIKE",
+    "problemName": "Chef and Bike",
+    "successfulSubmissions": 29,
+    "accuracy": 65
+},
+{
+    "problemCode": "BINOFEV",
+    "problemName": "Binomial Fever",
+    "successfulSubmissions": 29,
+    "accuracy": 21.114369501466275
+},
+{
+    "problemCode": "MISINT2",
+    "problemName": "Misinterpretation 2",
+    "successfulSubmissions": 29,
+    "accuracy": 22.077922077922079
+},
+{
+    "problemCode": "PRUNING",
+    "problemName": "Pruning Trees",
+    "successfulSubmissions": 29,
+    "accuracy": 62.857142857142854
+},
+{
+    "problemCode": "CUCUMBER",
+    "problemName": "Cucumber Boy and Cucumber Girl",
+    "successfulSubmissions": 30,
+    "accuracy": 62.318840579710141
+},
+{
+    "problemCode": "DANYANUM",
+    "problemName": "Danya and Numbers",
+    "successfulSubmissions": 30,
+    "accuracy": 47.826086956521742
+},
+{
+    "problemCode": "KOL15D",
+    "problemName": "Seats",
+    "successfulSubmissions": 30,
+    "accuracy": 11.550151975683891
+},
+{
+    "problemCode": "LUCKYDAY",
+    "problemName": "Lucky Days",
+    "successfulSubmissions": 30,
+    "accuracy": 12.232415902140673
+},
+{
+    "problemCode": "AMR15E",
+    "problemName": "Avantika",
+    "successfulSubmissions": 31,
+    "accuracy": 25
+},
+{
+    "problemCode": "GEOCHEAT",
+    "problemName": "Bear and Shuffled Points",
+    "successfulSubmissions": 32,
+    "accuracy": 24.479166666666664
+},
+{
+    "problemCode": "MAGIC",
+    "problemName": "Two Magicians",
+    "successfulSubmissions": 32,
+    "accuracy": 40.243902439024396
+},
+{
+    "problemCode": "MGCH3D",
+    "problemName": "3D Queries",
+    "successfulSubmissions": 32,
+    "accuracy": 31.016042780748666
+},
+{
+    "problemCode": "TBGRAPH",
+    "problemName": "Graph on a Table",
+    "successfulSubmissions": 32,
+    "accuracy": 33.858267716535437
+},
+{
+    "problemCode": "TRCNTCT",
+    "problemName": "Tree Connectivity",
+    "successfulSubmissions": 32,
+    "accuracy": 35.151515151515149
+},
+{
+    "problemCode": "GERALD08",
+    "problemName": "Chef and Tree Game",
+    "successfulSubmissions": 33,
+    "accuracy": 32.592592592592595
+},
+{
+    "problemCode": "SFUNC",
+    "problemName": "SuperFunction",
+    "successfulSubmissions": 33,
+    "accuracy": 6.3448275862068968
+},
+{
+    "problemCode": "SPMATRIX",
+    "problemName": "Count Special Matrices",
+    "successfulSubmissions": 33,
+    "accuracy": 37.078651685393261
+},
+{
+    "problemCode": "TASUFFIX",
+    "problemName": "Very Long Suffix Array",
+    "successfulSubmissions": 33,
+    "accuracy": 56.521739130434781
+},
+{
+    "problemCode": "XETF",
+    "problemName": "Euler Totient Function Extended",
+    "successfulSubmissions": 33,
+    "accuracy": 7.0959264126149808
+},
+{
+    "problemCode": "FLYDIST",
+    "problemName": "Flight Distance",
+    "successfulSubmissions": 34,
+    "accuracy": 30.188679245283019
+},
+{
+    "problemCode": "JERRYTOM",
+    "problemName": "Tom and Jerry",
+    "successfulSubmissions": 34,
+    "accuracy": 54.054054054054056
+},
+{
+    "problemCode": "NPLANAR",
+    "problemName": "Not even planar",
+    "successfulSubmissions": 34,
+    "accuracy": 22.988505747126435
+},
+{
+    "problemCode": "OVERPNT",
+    "problemName": "Bear and Oveflow Points",
+    "successfulSubmissions": 34,
+    "accuracy": 53.521126760563376
+},
+{
+    "problemCode": "PTOSS",
+    "problemName": "Pizza Tossing",
+    "successfulSubmissions": 34,
+    "accuracy": 23.952095808383234
+},
+{
+    "problemCode": "SHORT",
+    "problemName": "Short",
+    "successfulSubmissions": 34,
+    "accuracy": 24.390243902439025
+},
+{
+    "problemCode": "MGCHGYM",
+    "problemName": "Misha and Gym",
+    "successfulSubmissions": 35,
+    "accuracy": 10.817307692307693
+},
+{
+    "problemCode": "SEQCOUNT",
+    "problemName": "How many sequences",
+    "successfulSubmissions": 35,
+    "accuracy": 8.3499005964214703
+},
+{
+    "problemCode": "SKIRES",
+    "problemName": "Ski Resort",
+    "successfulSubmissions": 35,
+    "accuracy": 25.523012552301257
+},
+{
+    "problemCode": "C1",
+    "problemName": "Swapping mismatches",
+    "successfulSubmissions": 36,
+    "accuracy": 6.1011904761904763
+},
+{
+    "problemCode": "IRONISL",
+    "problemName": "Iron Islands",
+    "successfulSubmissions": 36,
+    "accuracy": 21.014492753623188
+},
+{
+    "problemCode": "QPOINT",
+    "problemName": "Queries With Points",
+    "successfulSubmissions": 36,
+    "accuracy": 16.231884057971012
+},
+{
+    "problemCode": "SERSUM",
+    "problemName": "Series Sum",
+    "successfulSubmissions": 36,
+    "accuracy": 40
+},
+{
+    "problemCode": "ALICE",
+    "problemName": "Alice",
+    "successfulSubmissions": 37,
+    "accuracy": 31.386861313868614
+},
+{
+    "problemCode": "CLONES",
+    "problemName": "Attack of the Clones",
+    "successfulSubmissions": 37,
+    "accuracy": 45.652173913043477
+},
+{
+    "problemCode": "MUFFINS",
+    "problemName": "Baking Cupcakes",
+    "successfulSubmissions": 37,
+    "accuracy": 21.212121212121211
+},
+{
+    "problemCode": "FINDSEQ",
+    "problemName": "Find a Subsequence",
+    "successfulSubmissions": 38,
+    "accuracy": 21.238938053097346
+},
+{
+    "problemCode": "SUMDIS",
+    "problemName": "Sum of distances",
+    "successfulSubmissions": 38,
+    "accuracy": 24.271844660194176
+},
+{
+    "problemCode": "TULIPS",
+    "problemName": "Tiptoe through the tulips",
+    "successfulSubmissions": 38,
+    "accuracy": 21.59090909090909
+},
+{
+    "problemCode": "GTHRONES",
+    "problemName": "A Game of Thrones",
+    "successfulSubmissions": 39,
+    "accuracy": 22.891566265060241
+},
+{
+    "problemCode": "KOL16C",
+    "problemName": "Zeroes VII",
+    "successfulSubmissions": 39,
+    "accuracy": 21.019108280254777
+},
+{
+    "problemCode": "LUCASTH",
+    "problemName": "Lucas Theorem",
+    "successfulSubmissions": 39,
+    "accuracy": 23.323615160349853
+},
+{
+    "problemCode": "MXPATH",
+    "problemName": "Maximum Tree Path",
+    "successfulSubmissions": 39,
+    "accuracy": 26.21359223300971
+},
+{
+    "problemCode": "QGRID",
+    "problemName": "Querying on a Grid",
+    "successfulSubmissions": 39,
+    "accuracy": 27.450980392156865
+},
+{
+    "problemCode": "TRDST",
+    "problemName": "Yet Another Tree Problem",
+    "successfulSubmissions": 39,
+    "accuracy": 22.171945701357465
+},
+{
+    "problemCode": "TSPAGAIN",
+    "problemName": "Travelling Salesman Again !",
+    "successfulSubmissions": 39,
+    "accuracy": 48.026315789473685
+},
+{
+    "problemCode": "AUTHEN",
+    "problemName": "Authentication Failed",
+    "successfulSubmissions": 40,
+    "accuracy": 26.548672566371685
+},
+{
+    "problemCode": "CNTHEX",
+    "problemName": "Counting Hexagons",
+    "successfulSubmissions": 40,
+    "accuracy": 40.151515151515149
+},
+{
+    "problemCode": "JADUGAR",
+    "problemName": "Chef and Same Old Recurrence",
+    "successfulSubmissions": 40,
+    "accuracy": 29.032258064516132
+},
+{
+    "problemCode": "SEZ",
+    "problemName": "Special Economic Zone",
+    "successfulSubmissions": 40,
+    "accuracy": 39.669421487603309
+},
+{
+    "problemCode": "TICKETS",
+    "problemName": "Selling Tickets",
+    "successfulSubmissions": 40,
+    "accuracy": 26.063829787234045
+},
+{
+    "problemCode": "PUSHFLOW",
+    "problemName": "Push the Flow!",
+    "successfulSubmissions": 41,
+    "accuracy": 26.558265582655828
+},
+{
+    "problemCode": "REALSET",
+    "problemName": "Petya and Sequence",
+    "successfulSubmissions": 41,
+    "accuracy": 37.234042553191486
+},
+{
+    "problemCode": "SIGFIB",
+    "problemName": "Team Sigma and Fibonacci",
+    "successfulSubmissions": 41,
+    "accuracy": 35.195530726256983
+},
+{
+    "problemCode": "DIGFORST",
+    "problemName": "Digits Forest",
+    "successfulSubmissions": 42,
+    "accuracy": 17.484662576687114
+},
+{
+    "problemCode": "WTHINGS",
+    "problemName": "Where the Wild Things Are",
+    "successfulSubmissions": 42,
+    "accuracy": 23.322683706070286
+},
+{
+    "problemCode": "ADADET",
+    "problemName": "A Study in Bake Street",
+    "successfulSubmissions": 43,
+    "accuracy": 17.013888888888889
+},
+{
+    "problemCode": "ANUAAA",
+    "problemName": "Anup at Amrithapuri",
+    "successfulSubmissions": 44,
+    "accuracy": 43.827160493827158
+},
+{
+    "problemCode": "GENETICS",
+    "problemName": "Genetics",
+    "successfulSubmissions": 44,
+    "accuracy": 22.065727699530516
+},
+{
+    "problemCode": "DRAGONST",
+    "problemName": "Dragonstone",
+    "successfulSubmissions": 45,
+    "accuracy": 20.344827586206897
+},
+{
+    "problemCode": "GLBEGA",
+    "problemName": "Glass Bead Game",
+    "successfulSubmissions": 45,
+    "accuracy": 42.857142857142854
+},
+{
+    "problemCode": "JADUGAR2",
+    "problemName": "Chef and Same Old Recurrence 2",
+    "successfulSubmissions": 45,
+    "accuracy": 56.12244897959183
+},
+{
+    "problemCode": "KNGHTMOV",
+    "problemName": "Knight Moving",
+    "successfulSubmissions": 45,
+    "accuracy": 14.342629482071715
+},
+{
+    "problemCode": "SEGMENTQ",
+    "problemName": "Segment Queries",
+    "successfulSubmissions": 45,
+    "accuracy": 19.749216300940439
+},
+{
+    "problemCode": "CHEFBOOK",
+    "problemName": "Chefbook",
+    "successfulSubmissions": 46,
+    "accuracy": 27.800829875518673
+},
+{
+    "problemCode": "DAGCH",
+    "problemName": "Graph Challenge",
+    "successfulSubmissions": 46,
+    "accuracy": 42.276422764227647
+},
+{
+    "problemCode": "DISTNUM",
+    "problemName": "Simple Queries",
+    "successfulSubmissions": 46,
+    "accuracy": 13
+},
+{
+    "problemCode": "GERALD2",
+    "problemName": "Black and White Tree",
+    "successfulSubmissions": 46,
+    "accuracy": 15.986949429037519
+},
+{
+    "problemCode": "LCH15JGH",
+    "problemName": "Many bananas",
+    "successfulSubmissions": 46,
+    "accuracy": 15.970515970515969
+},
+{
+    "problemCode": "SADPAIRS",
+    "problemName": "Chef and Sad Pairs",
+    "successfulSubmissions": 46,
+    "accuracy": 22.492401215805472
+},
+{
+    "problemCode": "KILLKTH",
+    "problemName": "Killjee and k-th letter ",
+    "successfulSubmissions": 47,
+    "accuracy": 23.145400593471809
+},
+{
+    "problemCode": "CONNECT",
+    "problemName": "Find a special connected block",
+    "successfulSubmissions": 48,
+    "accuracy": 10.626702997275205
+},
+{
+    "problemCode": "FBCHEF",
+    "problemName": "Final Battle of Chef",
+    "successfulSubmissions": 48,
+    "accuracy": 33.478260869565219
+},
+{
+    "problemCode": "CLOWAY",
+    "problemName": "Future of draughts",
+    "successfulSubmissions": 49,
+    "accuracy": 21.764705882352942
+},
+{
+    "problemCode": "LCM",
+    "problemName": "Adding Least Common Multiples",
+    "successfulSubmissions": 49,
+    "accuracy": 17.486338797814209
+},
+{
+    "problemCode": "MARCHA6",
+    "problemName": "Some More Homework",
+    "successfulSubmissions": 49,
+    "accuracy": 25
+},
+{
+    "problemCode": "WALKBT",
+    "problemName": "Walks on the binary tree",
+    "successfulSubmissions": 49,
+    "accuracy": 21.478060046189377
+},
+{
+    "problemCode": "BB",
+    "problemName": "Billboards",
+    "successfulSubmissions": 50,
+    "accuracy": 68.181818181818173
+},
+{
+    "problemCode": "FSFSFS",
+    "problemName": "Factorial to Square",
+    "successfulSubmissions": 50,
+    "accuracy": 35.742971887550198
+},
+{
+    "problemCode": "RRTREE2",
+    "problemName": "Tree Again",
+    "successfulSubmissions": 50,
+    "accuracy": 42.553191489361701
+},
+{
+    "problemCode": "SEAORD",
+    "problemName": "Sereja and Order",
+    "successfulSubmissions": 51,
+    "accuracy": 38.607594936708864
+},
+{
+    "problemCode": "TMP01",
+    "problemName": "To Queue or not to Queue",
+    "successfulSubmissions": 51,
+    "accuracy": 36.170212765957451
+},
+{
+    "problemCode": "DISTNUM2",
+    "problemName": "Easy Queries",
+    "successfulSubmissions": 52,
+    "accuracy": 33.417721518987342
+},
+{
+    "problemCode": "EVILBOOK",
+    "problemName": "Evil Book",
+    "successfulSubmissions": 52,
+    "accuracy": 19.714285714285715
+},
+{
+    "problemCode": "LPARTY",
+    "problemName": "Little Party",
+    "successfulSubmissions": 54,
+    "accuracy": 13.313609467455622
+},
+{
+    "problemCode": "ARRAYSUM",
+    "problemName": "Arrays Sum",
+    "successfulSubmissions": 55,
+    "accuracy": 17.897727272727273
+},
+{
+    "problemCode": "QMARKS",
+    "problemName": "Lucy and Question Marks",
+    "successfulSubmissions": 55,
+    "accuracy": 29.074889867841406
+},
+{
+    "problemCode": "ICPC16G",
+    "problemName": "Robolympic Batons",
+    "successfulSubmissions": 56,
+    "accuracy": 26.181818181818183
+},
+{
+    "problemCode": "XDCOMP",
+    "problemName": "Xor Decomposition",
+    "successfulSubmissions": 56,
+    "accuracy": 34.574468085106389
+},
+{
+    "problemCode": "TESTERS",
+    "problemName": "Vacation",
+    "successfulSubmissions": 58,
+    "accuracy": 13.157894736842104
+},
+{
+    "problemCode": "HAMILG",
+    "problemName": "A game on a graph",
+    "successfulSubmissions": 59,
+    "accuracy": 23.776223776223777
+},
+{
+    "problemCode": "PARSIN",
+    "problemName": "Sine Partition Function",
+    "successfulSubmissions": 59,
+    "accuracy": 49.242424242424242
+},
+{
+    "problemCode": "QTREE",
+    "problemName": "Queries on tree again!",
+    "successfulSubmissions": 59,
+    "accuracy": 30.980392156862745
+},
+{
+    "problemCode": "SEAINCR",
+    "problemName": "Sereja and Increasing subsequence",
+    "successfulSubmissions": 59,
+    "accuracy": 25.060827250608277
+},
+{
+    "problemCode": "UPDTREE",
+    "problemName": "Updating Edges on Trees",
+    "successfulSubmissions": 59,
+    "accuracy": 31.636363636363633
+},
+{
+    "problemCode": "CHEFC",
+    "problemName": "Chef and medium problem ",
+    "successfulSubmissions": 60,
+    "accuracy": 17.460317460317459
+},
+{
+    "problemCode": "PERMUTE",
+    "problemName": "Just Some Permutations 3",
+    "successfulSubmissions": 61,
+    "accuracy": 37.037037037037038
+},
+{
+    "problemCode": "LECOINS",
+    "problemName": "Little Elephant and Colored Coins",
+    "successfulSubmissions": 62,
+    "accuracy": 27.215189873417721
+},
+{
+    "problemCode": "DEVLOCK",
+    "problemName": "Devu and Locks",
+    "successfulSubmissions": 63,
+    "accuracy": 27.966101694915253
+},
+{
+    "problemCode": "MARCHA3",
+    "problemName": "The Guessing Game",
+    "successfulSubmissions": 63,
+    "accuracy": 21.766561514195583
+},
+{
+    "problemCode": "MSTONES",
+    "problemName": "Milestones",
+    "successfulSubmissions": 63,
+    "accuracy": 22.437137330754354
+},
+{
+    "problemCode": "CAPTCITI",
+    "problemName": "Snakes capturing the Mongoose Cities",
+    "successfulSubmissions": 64,
+    "accuracy": 31.782945736434108
+},
+{
+    "problemCode": "BWGAME",
+    "problemName": "Black-white Board Game",
+    "successfulSubmissions": 68,
+    "accuracy": 29.452054794520549
+},
+{
+    "problemCode": "FIBTREE",
+    "problemName": "Fibonacci Numbers on Tree",
+    "successfulSubmissions": 68,
+    "accuracy": 17.507418397626111
+},
+{
+    "problemCode": "MATCH",
+    "problemName": "Expected Maximum Matching",
+    "successfulSubmissions": 68,
+    "accuracy": 57.971014492753625
+},
+{
+    "problemCode": "RANKA",
+    "problemName": "Ranka",
+    "successfulSubmissions": 68,
+    "accuracy": 36.597938144329895
+},
+{
+    "problemCode": "SUBQUERY",
+    "problemName": "Substring Query",
+    "successfulSubmissions": 68,
+    "accuracy": 17.768595041322314
+},
+{
+    "problemCode": "DOCSDEL",
+    "problemName": "Permutation Composition Queries",
+    "successfulSubmissions": 69,
+    "accuracy": 15.070921985815602
+},
+{
+    "problemCode": "BTREE",
+    "problemName": "Union on Tree",
+    "successfulSubmissions": 70,
+    "accuracy": 35.161290322580648
+},
+{
+    "problemCode": "LEBOXES",
+    "problemName": "Little Elephant and Boxes",
+    "successfulSubmissions": 70,
+    "accuracy": 43.255813953488371
+},
+{
+    "problemCode": "PDELIV",
+    "problemName": "Pizza Delivery",
+    "successfulSubmissions": 70,
+    "accuracy": 14.051094890510948
+},
+{
+    "problemCode": "SEINC",
+    "problemName": "Sereja and Subsegment Increasings",
+    "successfulSubmissions": 70,
+    "accuracy": 28.195488721804512
+},
+{
+    "problemCode": "TDRIVER",
+    "problemName": "Taxi Driver",
+    "successfulSubmissions": 71,
+    "accuracy": 38.834951456310677
+},
+{
+    "problemCode": "ANUDTQ",
+    "problemName": "Dynamic Trees and Queries",
+    "successfulSubmissions": 72,
+    "accuracy": 27.411167512690355
+},
+{
+    "problemCode": "SLIS",
+    "problemName": "Second LIS",
+    "successfulSubmissions": 72,
+    "accuracy": 43.229166666666671
+},
+{
+    "problemCode": "POLY",
+    "problemName": "Polynomials",
+    "successfulSubmissions": 74,
+    "accuracy": 19.19014084507042
+},
+{
+    "problemCode": "EASYEX",
+    "problemName": "Easy exam",
+    "successfulSubmissions": 76,
+    "accuracy": 28.211586901763226
+},
+{
+    "problemCode": "D4",
+    "problemName": "Primes in the GCD table",
+    "successfulSubmissions": 79,
+    "accuracy": 13.733333333333334
+},
+{
+    "problemCode": "TREECNT2",
+    "problemName": "Counting on a Tree",
+    "successfulSubmissions": 80,
+    "accuracy": 22.448979591836736
+},
+{
+    "problemCode": "QRECT",
+    "problemName": "Rectangle Query",
+    "successfulSubmissions": 81,
+    "accuracy": 34.360189573459714
+},
+{
+    "problemCode": "REACAR",
+    "problemName": "Rearranging Cartons ",
+    "successfulSubmissions": 84,
+    "accuracy": 56.78391959798995
+},
+{
+    "problemCode": "PUPPYGCD",
+    "problemName": "Puppy and GCD",
+    "successfulSubmissions": 85,
+    "accuracy": 13.624220837043632
+},
+{
+    "problemCode": "SPSHORT",
+    "problemName": "Special Shortest Walk",
+    "successfulSubmissions": 86,
+    "accuracy": 22.784810126582279
+},
+{
+    "problemCode": "TSUBSTR",
+    "problemName": "Substrings on a Tree",
+    "successfulSubmissions": 86,
+    "accuracy": 25.748502994011975
+},
+{
+    "problemCode": "TKCONVEX",
+    "problemName": "Two k-Convex Polygons",
+    "successfulSubmissions": 87,
+    "accuracy": 29.916897506925206
+},
+{
+    "problemCode": "CBAL",
+    "problemName": "Chef and Balanced Strings",
+    "successfulSubmissions": 88,
+    "accuracy": 20.60702875399361
+},
+{
+    "problemCode": "PALPROB",
+    "problemName": "Palindromeness",
+    "successfulSubmissions": 89,
+    "accuracy": 23.90488110137672
+},
+{
+    "problemCode": "ELPHANT",
+    "problemName": "Elephant",
+    "successfulSubmissions": 92,
+    "accuracy": 57.142857142857139
+},
+{
+    "problemCode": "FN",
+    "problemName": "Fibonacci Number",
+    "successfulSubmissions": 92,
+    "accuracy": 21.853388658367912
+},
+{
+    "problemCode": "SEAARC",
+    "problemName": "Sereja and Arcs",
+    "successfulSubmissions": 93,
+    "accuracy": 27.777777777777779
+},
+{
+    "problemCode": "PARADE",
+    "problemName": "Annual Parade",
+    "successfulSubmissions": 97,
+    "accuracy": 33.169533169533175
+},
+{
+    "problemCode": "QUERY",
+    "problemName": "Observing the Tree",
+    "successfulSubmissions": 97,
+    "accuracy": 18.730808597748208
+},
+{
+    "problemCode": "CNTDSETS",
+    "problemName": "Counting D-sets",
+    "successfulSubmissions": 99,
+    "accuracy": 56.399999999999991
+},
+{
+    "problemCode": "RNG",
+    "problemName": "Random Number Generator",
+    "successfulSubmissions": 102,
+    "accuracy": 34.856396866840733
+},
+{
+    "problemCode": "CROCDILE",
+    "problemName": "Crocodile",
+    "successfulSubmissions": 103,
+    "accuracy": 44.567627494456765
+},
+{
+    "problemCode": "DIFTRIP",
+    "problemName": "Different Trips",
+    "successfulSubmissions": 107,
+    "accuracy": 31.893004115226336
+},
+{
+    "problemCode": "MONOPLOY",
+    "problemName": "Gangsters of Treeland",
+    "successfulSubmissions": 107,
+    "accuracy": 23.802612481857764
+},
+{
+    "problemCode": "SEAEQ",
+    "problemName": "Sereja and Equality",
+    "successfulSubmissions": 108,
+    "accuracy": 35.06849315068493
+},
+{
+    "problemCode": "STREETTA",
+    "problemName": "The Street ",
+    "successfulSubmissions": 108,
+    "accuracy": 24.401913875598087
+},
+{
+    "problemCode": "SEALCM",
+    "problemName": "Sereja and LCM",
+    "successfulSubmissions": 109,
+    "accuracy": 39.949109414758269
+},
+{
+    "problemCode": "COT5",
+    "problemName": "Count on a Treap",
+    "successfulSubmissions": 110,
+    "accuracy": 46.882793017456358
+},
+{
+    "problemCode": "TAPAIR",
+    "problemName": "Counting The Important Pairs",
+    "successfulSubmissions": 113,
+    "accuracy": 30.368098159509206
+},
+{
+    "problemCode": "TRIPS",
+    "problemName": "Children Trips",
+    "successfulSubmissions": 116,
+    "accuracy": 26.211671612265086
+},
+{
+    "problemCode": "ANUSAR",
+    "problemName": "Substrings and Repetitions",
+    "successfulSubmissions": 118,
+    "accuracy": 25.938566552901023
+},
+{
+    "problemCode": "COVERING",
+    "problemName": "Covering Sets",
+    "successfulSubmissions": 127,
+    "accuracy": 58.284023668639051
+},
+{
+    "problemCode": "TWOCOMP",
+    "problemName": "Two Companies",
+    "successfulSubmissions": 128,
+    "accuracy": 29.495268138801261
+},
+{
+    "problemCode": "QTREE6",
+    "problemName": "Query on a tree VI",
+    "successfulSubmissions": 132,
+    "accuracy": 28.924418604651166
+},
+{
+    "problemCode": "GNUM",
+    "problemName": "Game of Numbers",
+    "successfulSubmissions": 135,
+    "accuracy": 26.221692491060789
+},
+{
+    "problemCode": "CULPRO",
+    "problemName": "Cultural Programme",
+    "successfulSubmissions": 137,
+    "accuracy": 43.715846994535518
+},
+{
+    "problemCode": "FARASA",
+    "problemName": "Furik and Rubik and Sub Array",
+    "successfulSubmissions": 141,
+    "accuracy": 27.104532839962996
+},
+{
+    "problemCode": "JUMP",
+    "problemName": "Jump mission",
+    "successfulSubmissions": 146,
+    "accuracy": 30.518018018018019
+},
+{
+    "problemCode": "RIN",
+    "problemName": "Course Selection",
+    "successfulSubmissions": 167,
+    "accuracy": 48.613376835236544
+},
+{
+    "problemCode": "DGCD",
+    "problemName": "Dynamic GCD",
+    "successfulSubmissions": 175,
+    "accuracy": 16.840607210626185
+},
+{
+    "problemCode": "GRAPHCNT",
+    "problemName": "Counting on a directed graph",
+    "successfulSubmissions": 189,
+    "accuracy": 29.411764705882355
+},
+{
+    "problemCode": "VOGOZO",
+    "problemName": "Vogon Zoo",
+    "successfulSubmissions": 197,
+    "accuracy": 59.079903147699753
+},
+{
+    "problemCode": "PPTREE",
+    "problemName": "Polo the Penguin and the Tree",
+    "successfulSubmissions": 205,
+    "accuracy": 33.616504854368934
+},
+{
+    "problemCode": "LYRC",
+    "problemName": "Music & Lyrics",
+    "successfulSubmissions": 208,
+    "accuracy": 19.084362139917697
+},
+{
+    "problemCode": "TEAMSEL",
+    "problemName": "Team Selection",
+    "successfulSubmissions": 246,
+    "accuracy": 6.105610561056106
+},
+{
+    "problemCode": "CARDSHUF",
+    "problemName": "Card Shuffle",
+    "successfulSubmissions": 298,
+    "accuracy": 36.106870229007633
+},
+{
+    "problemCode": "XRQRS",
+    "problemName": "Xor Queries",
+    "successfulSubmissions": 304,
+    "accuracy": 21.541234790446147
+},
+{
+    "problemCode": "FNCS",
+    "problemName": "Chef and Churu",
+    "successfulSubmissions": 321,
+    "accuracy": 16.085106382978722
+},
+{
+    "problemCode": "DOMSOL",
+    "problemName": "Domino Solitaire",
+    "successfulSubmissions": 346,
+    "accuracy": 55.569948186528492
+},
+{
+    "problemCode": "COUNTARI",
+    "problemName": "Arithmetic Progressions",
+    "successfulSubmissions": 347,
+    "accuracy": 24.593658406608046
+},
+{
+    "problemCode": "GERALD07",
+    "problemName": "Chef and Graph Queries",
+    "successfulSubmissions": 406,
+    "accuracy": 25.263157894736842
+},
+{
+    "problemCode": "PRIMEDST",
+    "problemName": "Prime Distance On Tree",
+    "successfulSubmissions": 588,
+    "accuracy": 28.47236814456819
+},
+{
+    "problemCode": "ICPC16F",
+    "problemName": "Chef and Bipartite Graphs",
+    "successfulSubmissions": 820,
+    "accuracy": 33.557522123893804
+},
+{
+    "problemCode": "ORDERS",
+    "problemName": "Ordering the Soldiers",
+    "successfulSubmissions": 998,
+    "accuracy": 10.566907847658424
+}]

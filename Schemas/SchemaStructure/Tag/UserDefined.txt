@@ -1,0 +1,12 @@
+{
+	userId:
+	{
+		type: String,
+        required: true,
+	},
+	tags:
+	{
+		type: Array,
+		of: String
+	},
+}

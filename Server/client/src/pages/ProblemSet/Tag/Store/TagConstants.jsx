@@ -1,0 +1,1 @@
+export const FETCH_TAG = "FETCH_TAG";

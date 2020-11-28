@@ -1,0 +1,32 @@
+.Container {
+    width: 85% !important;
+    min-width: 85% !important;
+    box-sizing: border-box;
+    /* box-shadow: lawngreen !important; */
+}
+
+.OuterBox {
+    margin-bottom: 20px;
+    min-width: 100% !important;
+    padding: 15px !important;
+    min-height: 96vh !important;
+    /* border: 1px solid; */
+    border-bottom: 0px none;
+    /* box-shadow: 0 0px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19); */
+}
+
+.Tag {
+    margin-top: 30px;
+}
+
+.applyTagsButton {
+    height: 45px;
+    position: relative;
+    top: 5px;
+    right: 10px;
+    background-color: tomato !important;
+}
+
+.HeaderPart {
+    /* box-shadow: 0 2px 4px 0 rgba(0, 0, 0, 0.2), 0 3px 10px 0 rgba(0, 0, 0, 0.19) !important; */
+}

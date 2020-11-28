@@ -1,0 +1,1 @@
+{"options":{},"indexes":[{"v":{"$numberInt":"2"},"key":{"_id":{"$numberInt":"1"}},"name":"_id_","ns":"codechef_internship.user_defined_tags"}],"uuid":"28556370bc9946218cbaa24799920f51"}

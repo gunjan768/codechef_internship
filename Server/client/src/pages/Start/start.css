@@ -1,0 +1,37 @@
+
+/* important property in CSS means that all subsequent rules on an element are to be ignored, and the rule denoted by ! important is 
+to be applied. This rule overrides all previous styling rules ​-- the ! */
+
+.masthead {
+	background: linear-gradient(to top left, #ff0066 0%, #9933ff 100%) !important;
+}
+  
+.masthead.segment {
+	min-height: 700px;
+	padding: 1em 0 !important;
+}
+
+.masthead .ui.menu .ui.button,
+.ui.menu a.ui.inverted.button {
+	margin-left: 0.5em;
+}
+
+.masthead h1.ui.header {
+	margin-top: 3em;
+	margin-bottom: 0;
+	font-size: 4em;
+	font-weight: normal;
+}
+
+.masthead h2 {
+	font-size: 1.7em;
+	font-weight: normal;
+}
+
+.footer.segment {
+	padding: 5em 0;
+}
+
+.secondary.inverted.pointing.menu {
+	border: none;
+}

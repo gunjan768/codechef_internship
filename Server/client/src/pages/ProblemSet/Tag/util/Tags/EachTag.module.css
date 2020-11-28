@@ -1,0 +1,18 @@
+.OuterContainer {
+    margin-bottom: 15px;
+    width: 250px;
+}
+
+.ButtonHead {
+    width: 240px !important;
+    height: 40px !important;
+}
+
+.ButtonItem {
+    width: 145px;
+    text-align: left !important;
+}
+
+.LabelItem {
+    width: 50px;
+}

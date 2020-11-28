@@ -1,0 +1,23 @@
+{
+    	userId:
+	{
+		type: String,
+        	required: true,
+	},
+    	problems:
+    	[
+        	{
+            		problemCode:
+            		{
+                		type: String,
+                		required: true,
+            		},
+            		tags:
+            		{
+                		type: Array,
+                		of: String,
+                		default: []
+            		}
+        	},
+    	]
+}

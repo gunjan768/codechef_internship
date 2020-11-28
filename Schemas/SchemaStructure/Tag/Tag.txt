@@ -1,0 +1,18 @@
+{
+	tag:
+	{
+		type: String,
+        required: true,
+        unique: true
+	},
+	count:
+	{
+		type: Number,
+		required: true,
+	},
+	type: 
+	{
+		type: String,
+		required: true,
+	}
+}

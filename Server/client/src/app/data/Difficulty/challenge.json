@@ -1,0 +1,852 @@
+[{
+    "problemCode": "TMBOX",
+    "problemName": "The Turing Music Box",
+    "successfulSubmissions": 7,
+    "accuracy": 1.7191977077363898
+},
+{
+    "problemCode": "ANTS",
+    "problemName": "Ants (Challenge) ",
+    "successfulSubmissions": 10,
+    "accuracy": 63.157894736842103
+},
+{
+    "problemCode": "DYNHUL",
+    "problemName": "(Challenge) Dynamic Hull",
+    "successfulSubmissions": 11,
+    "accuracy": 31.666666666666664
+},
+{
+    "problemCode": "EX",
+    "problemName": "Lights Off, Revisited!",
+    "successfulSubmissions": 12,
+    "accuracy": 6.666666666666667
+},
+{
+    "problemCode": "TILT",
+    "problemName": "Table Tilt",
+    "successfulSubmissions": 13,
+    "accuracy": 21.69811320754717
+},
+{
+    "problemCode": "VBR",
+    "problemName": "Vibrating Paths (Challenge)",
+    "successfulSubmissions": 13,
+    "accuracy": 39.449541284403672
+},
+{
+    "problemCode": "CHFWAR2",
+    "problemName": "(Challenge) Codechef War II",
+    "successfulSubmissions": 14,
+    "accuracy": 61.29032258064516
+},
+{
+    "problemCode": "CHNWGM",
+    "problemName": "Chef and New Game",
+    "successfulSubmissions": 14,
+    "accuracy": 41.333333333333336
+},
+{
+    "problemCode": "SEABIL",
+    "problemName": "(CH) Serejs and Billiards",
+    "successfulSubmissions": 14,
+    "accuracy": 41.17647058823529
+},
+{
+    "problemCode": "SYNBAC",
+    "problemName": "(Challenge) Bacteria Synthesis",
+    "successfulSubmissions": 14,
+    "accuracy": 40
+},
+{
+    "problemCode": "ADANTS",
+    "problemName": "(Challenge) 300 IQ Ants",
+    "successfulSubmissions": 15,
+    "accuracy": 40
+},
+{
+    "problemCode": "CHECKERS",
+    "problemName": "Eastern Draughts",
+    "successfulSubmissions": 15,
+    "accuracy": 32.352941176470587
+},
+{
+    "problemCode": "CHEFXCHG",
+    "problemName": "(Challenge) Chef Exchange",
+    "successfulSubmissions": 15,
+    "accuracy": 50
+},
+{
+    "problemCode": "EMBDTREE",
+    "problemName": "Embedding a Tree (Challenge)",
+    "successfulSubmissions": 15,
+    "accuracy": 45.588235294117645
+},
+{
+    "problemCode": "MATDW",
+    "problemName": "Mathison and the Data Warehouse (Challenge)",
+    "successfulSubmissions": 15,
+    "accuracy": 68.918918918918919
+},
+{
+    "problemCode": "MYST",
+    "problemName": "Chef in a Mysterious Land (Challenge)",
+    "successfulSubmissions": 15,
+    "accuracy": 40
+},
+{
+    "problemCode": "SCRABBLE",
+    "problemName": "Scrabble on a Graph",
+    "successfulSubmissions": 15,
+    "accuracy": 25.806451612903224
+},
+{
+    "problemCode": "SEAWCU",
+    "problemName": "Sereja and Ways in the Cube",
+    "successfulSubmissions": 15,
+    "accuracy": 58.333333333333336
+},
+{
+    "problemCode": "SEBICPU",
+    "problemName": "(Challenge) Sebi and CPU Design",
+    "successfulSubmissions": 15,
+    "accuracy": 55.26315789473685
+},
+{
+    "problemCode": "STORO",
+    "problemName": "Rotation Puzzle",
+    "successfulSubmissions": 15,
+    "accuracy": 12.711864406779661
+},
+{
+    "problemCode": "WAREHOUS",
+    "problemName": "Warehouseman (Challenge)",
+    "successfulSubmissions": 15,
+    "accuracy": 48.571428571428569
+},
+{
+    "problemCode": "CHEFJR",
+    "problemName": "Chef and Job and Rest",
+    "successfulSubmissions": 16,
+    "accuracy": 46.511627906976742
+},
+{
+    "problemCode": "CX",
+    "problemName": "Best board fill",
+    "successfulSubmissions": 16,
+    "accuracy": 43.18181818181818
+},
+{
+    "problemCode": "DSANTAP",
+    "problemName": "Santa Delivering Problem",
+    "successfulSubmissions": 16,
+    "accuracy": 56.38297872340425
+},
+{
+    "problemCode": "EDIT",
+    "problemName": "Edit Distance Revisited",
+    "successfulSubmissions": 16,
+    "accuracy": 45.454545454545453
+},
+{
+    "problemCode": "L2GRAPH",
+    "problemName": "Graphs in Euclidean Space",
+    "successfulSubmissions": 16,
+    "accuracy": 28.378378378378379
+},
+{
+    "problemCode": "NONCONVX",
+    "problemName": "Not a Convex Hull (Challenge)",
+    "successfulSubmissions": 16,
+    "accuracy": 82.608695652173907
+},
+{
+    "problemCode": "SEACIR",
+    "problemName": "Sereja and Circles",
+    "successfulSubmissions": 16,
+    "accuracy": 36.95652173913043
+},
+{
+    "problemCode": "SEAFUNC",
+    "problemName": "Sereja and Functions (Challenge)",
+    "successfulSubmissions": 16,
+    "accuracy": 53.488372093023251
+},
+{
+    "problemCode": "SPIN",
+    "problemName": "Spinning Wheels",
+    "successfulSubmissions": 16,
+    "accuracy": 36.95652173913043
+},
+{
+    "problemCode": "ALICGARD",
+    "problemName": "Alice and her garden",
+    "successfulSubmissions": 17,
+    "accuracy": 72.727272727272734
+},
+{
+    "problemCode": "ALLINONE",
+    "problemName": "The Amazing All-In-One Cooking Machine - Challenge",
+    "successfulSubmissions": 17,
+    "accuracy": 59.649122807017541
+},
+{
+    "problemCode": "AMBIDEX",
+    "problemName": "Ambidextrous Chefs",
+    "successfulSubmissions": 17,
+    "accuracy": 65.873015873015873
+},
+{
+    "problemCode": "ANUMFS",
+    "problemName": "The Malaysian Flight Search",
+    "successfulSubmissions": 17,
+    "accuracy": 31.067961165048541
+},
+{
+    "problemCode": "BX",
+    "problemName": "Bubbles",
+    "successfulSubmissions": 17,
+    "accuracy": 22.5
+},
+{
+    "problemCode": "BYTEFOOD",
+    "problemName": "Food Shortage in Byteland",
+    "successfulSubmissions": 17,
+    "accuracy": 50.847457627118644
+},
+{
+    "problemCode": "BYTELE",
+    "problemName": "Bytelandian Telecom",
+    "successfulSubmissions": 17,
+    "accuracy": 66.666666666666657
+},
+{
+    "problemCode": "CHEFBATL",
+    "problemName": "Chef and Battleship",
+    "successfulSubmissions": 17,
+    "accuracy": 65.882352941176464
+},
+{
+    "problemCode": "DELIVERY",
+    "problemName": "Delivering Bread",
+    "successfulSubmissions": 17,
+    "accuracy": 70.909090909090907
+},
+{
+    "problemCode": "DX",
+    "problemName": "Pack the balls in a box!",
+    "successfulSubmissions": 17,
+    "accuracy": 57.499999999999993
+},
+{
+    "problemCode": "EMBED",
+    "problemName": "Embedding",
+    "successfulSubmissions": 17,
+    "accuracy": 76.073619631901849
+},
+{
+    "problemCode": "GX",
+    "problemName": "Mosaic",
+    "successfulSubmissions": 17,
+    "accuracy": 63.333333333333329
+},
+{
+    "problemCode": "INTCOMB",
+    "problemName": "Integer Combinations Of Vectors",
+    "successfulSubmissions": 17,
+    "accuracy": 70
+},
+{
+    "problemCode": "MARCHAX",
+    "problemName": "Place the mines!",
+    "successfulSubmissions": 17,
+    "accuracy": 48.837209302325576
+},
+{
+    "problemCode": "SCLUSTER",
+    "problemName": "Social Cluster",
+    "successfulSubmissions": 17,
+    "accuracy": 54.054054054054056
+},
+{
+    "problemCode": "SEADIVM",
+    "problemName": "Sereja and Matrix Division",
+    "successfulSubmissions": 17,
+    "accuracy": 65.06849315068493
+},
+{
+    "problemCode": "SEASNAKE",
+    "problemName": "Sereja and Snake",
+    "successfulSubmissions": 17,
+    "accuracy": 44.61538461538462
+},
+{
+    "problemCode": "SHOP2",
+    "problemName": "Optimal Shopping II",
+    "successfulSubmissions": 17,
+    "accuracy": 72.549019607843135
+},
+{
+    "problemCode": "SNAKGAME",
+    "problemName": "Game of snakes on a grid",
+    "successfulSubmissions": 17,
+    "accuracy": 43.07692307692308
+},
+{
+    "problemCode": "SRVRS",
+    "problemName": "Servers (Challenge)",
+    "successfulSubmissions": 17,
+    "accuracy": 35.64356435643564
+},
+{
+    "problemCode": "TOURBUS",
+    "problemName": "Byteland Tours",
+    "successfulSubmissions": 17,
+    "accuracy": 53.846153846153847
+},
+{
+    "problemCode": "WARTARAN",
+    "problemName": "Chef and War with Taran (Challenge)",
+    "successfulSubmissions": 17,
+    "accuracy": 33.333333333333329
+},
+{
+    "problemCode": "BLOCKS",
+    "problemName": "Block Tower",
+    "successfulSubmissions": 18,
+    "accuracy": 37.096774193548384
+},
+{
+    "problemCode": "CAVE",
+    "problemName": "Mushroom Cave",
+    "successfulSubmissions": 18,
+    "accuracy": 52.830188679245282
+},
+{
+    "problemCode": "CLUSSCHE",
+    "problemName": "Scheduling jobs on a cluster",
+    "successfulSubmissions": 18,
+    "accuracy": 64.367816091954026
+},
+{
+    "problemCode": "DARTS",
+    "problemName": "DARTS501",
+    "successfulSubmissions": 18,
+    "accuracy": 68.674698795180717
+},
+{
+    "problemCode": "EBOLA",
+    "problemName": "Fighting Ebola",
+    "successfulSubmissions": 18,
+    "accuracy": 65.217391304347828
+},
+{
+    "problemCode": "EFFDELIV",
+    "problemName": "Efficient Delivery",
+    "successfulSubmissions": 18,
+    "accuracy": 86.111111111111114
+},
+{
+    "problemCode": "KX",
+    "problemName": "Park tour",
+    "successfulSubmissions": 18,
+    "accuracy": 41.818181818181813
+},
+{
+    "problemCode": "SHOPPING",
+    "problemName": "Shopping",
+    "successfulSubmissions": 18,
+    "accuracy": 82.287822878228781
+},
+{
+    "problemCode": "WORDNINJ",
+    "problemName": "WordNinjas",
+    "successfulSubmissions": 18,
+    "accuracy": 66.960352422907491
+},
+{
+    "problemCode": "CROSSES",
+    "problemName": "The Game of Crosses & Crosses",
+    "successfulSubmissions": 19,
+    "accuracy": 65.625
+},
+{
+    "problemCode": "NBOTS",
+    "problemName": "(Challenge) Nanobots",
+    "successfulSubmissions": 19,
+    "accuracy": 29.292929292929294
+},
+{
+    "problemCode": "SMVSEVIL",
+    "problemName": "Smart Chef vs Evil Chef",
+    "successfulSubmissions": 19,
+    "accuracy": 59.45945945945946
+},
+{
+    "problemCode": "TANKS",
+    "problemName": "Tanks",
+    "successfulSubmissions": 19,
+    "accuracy": 59.375
+},
+{
+    "problemCode": "TRICOL",
+    "problemName": "(Challenge) Coloring Triangulations",
+    "successfulSubmissions": 19,
+    "accuracy": 69.047619047619051
+},
+{
+    "problemCode": "BURNCITY",
+    "problemName": "The Burning City",
+    "successfulSubmissions": 20,
+    "accuracy": 60.869565217391312
+},
+{
+    "problemCode": "COMPLEXT",
+    "problemName": "Complex Spanning Tree",
+    "successfulSubmissions": 20,
+    "accuracy": 67.142857142857139
+},
+{
+    "problemCode": "MX",
+    "problemName": "Sorting device",
+    "successfulSubmissions": 20,
+    "accuracy": 2.9966703662597114
+},
+{
+    "problemCode": "SEAARI",
+    "problemName": "Sereja and Progressions",
+    "successfulSubmissions": 20,
+    "accuracy": 66.666666666666657
+},
+{
+    "problemCode": "FLOOD",
+    "problemName": "Flood",
+    "successfulSubmissions": 21,
+    "accuracy": 57.055214723926383
+},
+{
+    "problemCode": "GRAPHCH",
+    "problemName": "Graph Challenge",
+    "successfulSubmissions": 21,
+    "accuracy": 53.333333333333336
+},
+{
+    "problemCode": "SPLIT",
+    "problemName": "Splitting Giant Subs",
+    "successfulSubmissions": 21,
+    "accuracy": 62.5
+},
+{
+    "problemCode": "BFORG",
+    "problemName": "The Secret Fellowship of Byteland",
+    "successfulSubmissions": 22,
+    "accuracy": 24.904214559386972
+},
+{
+    "problemCode": "BICKER",
+    "problemName": "Bickering Cooks",
+    "successfulSubmissions": 22,
+    "accuracy": 57.894736842105267
+},
+{
+    "problemCode": "CAKES",
+    "problemName": "Cake Production Line",
+    "successfulSubmissions": 22,
+    "accuracy": 75.675675675675677
+},
+{
+    "problemCode": "CHEFPALS",
+    "problemName": "(Challenge) Chef and Palindromes",
+    "successfulSubmissions": 22,
+    "accuracy": 61.53846153846154
+},
+{
+    "problemCode": "FACTORY",
+    "problemName": "Optimizing Production and Sales",
+    "successfulSubmissions": 23,
+    "accuracy": 55.769230769230774
+},
+{
+    "problemCode": "MAXDIFFW",
+    "problemName": "Maximum Difference Walk",
+    "successfulSubmissions": 23,
+    "accuracy": 43.884892086330936
+},
+{
+    "problemCode": "ADDCHAIN",
+    "problemName": "Addition chains",
+    "successfulSubmissions": 24,
+    "accuracy": 27.84090909090909
+},
+{
+    "problemCode": "CHTTRS",
+    "problemName": "Chef and Chetris",
+    "successfulSubmissions": 24,
+    "accuracy": 59.854014598540154
+},
+{
+    "problemCode": "MATCHIT",
+    "problemName": "(Challenge) Chef and Matching Game",
+    "successfulSubmissions": 24,
+    "accuracy": 43.835616438356162
+},
+{
+    "problemCode": "NX",
+    "problemName": "The Best Tower",
+    "successfulSubmissions": 25,
+    "accuracy": 27.551020408163261
+},
+{
+    "problemCode": "SBTR",
+    "problemName": "Saboteur (Challenge)",
+    "successfulSubmissions": 25,
+    "accuracy": 75.384615384615387
+},
+{
+    "problemCode": "SEASHUF",
+    "problemName": "Sereja and Shuffling",
+    "successfulSubmissions": 25,
+    "accuracy": 55.696202531645568
+},
+{
+    "problemCode": "TOMJERRY",
+    "problemName": "Tom And Jerry",
+    "successfulSubmissions": 25,
+    "accuracy": 45.555555555555557
+},
+{
+    "problemCode": "CHMTDV",
+    "problemName": "Chef and Matrix Division",
+    "successfulSubmissions": 27,
+    "accuracy": 71.232876712328761
+},
+{
+    "problemCode": "KILOWHAT",
+    "problemName": "A Fence for Byteland",
+    "successfulSubmissions": 29,
+    "accuracy": 44.444444444444443
+},
+{
+    "problemCode": "POINTCN",
+    "problemName": "(Challenge) Connecting computers",
+    "successfulSubmissions": 29,
+    "accuracy": 76.13636363636364
+},
+{
+    "problemCode": "SIMNIM",
+    "problemName": "Simultaneous Nim",
+    "successfulSubmissions": 29,
+    "accuracy": 47.058823529411761
+},
+{
+    "problemCode": "SNCK99",
+    "problemName": "(Challenge) SnackDown 99",
+    "successfulSubmissions": 29,
+    "accuracy": 70
+},
+{
+    "problemCode": "CHPUZZLE",
+    "problemName": "Jigsaw Puzzle Solving",
+    "successfulSubmissions": 31,
+    "accuracy": 53.548387096774199
+},
+{
+    "problemCode": "CHEFNIL",
+    "problemName": "Chef and Intersection Line",
+    "successfulSubmissions": 33,
+    "accuracy": 52.991452991452995
+},
+{
+    "problemCode": "CHMKTRPS",
+    "problemName": "Chef and Making Triples",
+    "successfulSubmissions": 33,
+    "accuracy": 45.384615384615387
+},
+{
+    "problemCode": "KITCHEN",
+    "problemName": "Large Kitchen",
+    "successfulSubmissions": 33,
+    "accuracy": 58.536585365853654
+},
+{
+    "problemCode": "CUBVIRUS",
+    "problemName": "(Challenge) Cubical Virus",
+    "successfulSubmissions": 34,
+    "accuracy": 72.727272727272734
+},
+{
+    "problemCode": "EDSTGRID",
+    "problemName": "Edit Distance on Grid",
+    "successfulSubmissions": 34,
+    "accuracy": 57.28155339805825
+},
+{
+    "problemCode": "CHNGSS",
+    "problemName": "Chef and Number Guessing",
+    "successfulSubmissions": 35,
+    "accuracy": 28.823529411764703
+},
+{
+    "problemCode": "SMPAINT",
+    "problemName": "Art in Digital Age",
+    "successfulSubmissions": 35,
+    "accuracy": 68.235294117647058
+},
+{
+    "problemCode": "MANYLEFT",
+    "problemName": "Many Left",
+    "successfulSubmissions": 36,
+    "accuracy": 72.440944881889763
+},
+{
+    "problemCode": "FX",
+    "problemName": "Crystals",
+    "successfulSubmissions": 38,
+    "accuracy": 63.380281690140848
+},
+{
+    "problemCode": "INTERLEA",
+    "problemName": "(Challenge) Interleaving Strings",
+    "successfulSubmissions": 38,
+    "accuracy": 57.971014492753625
+},
+{
+    "problemCode": "FAULT",
+    "problemName": "Fault Tolerance",
+    "successfulSubmissions": 39,
+    "accuracy": 56.666666666666664
+},
+{
+    "problemCode": "ANTHILL",
+    "problemName": "(Challenge) Building Anthills",
+    "successfulSubmissions": 40,
+    "accuracy": 58.18181818181818
+},
+{
+    "problemCode": "MAXLIS",
+    "problemName": "(Challenge) Maximizing LIS",
+    "successfulSubmissions": 42,
+    "accuracy": 45
+},
+{
+    "problemCode": "BIAS",
+    "problemName": "(Challenge) Biased Committee",
+    "successfulSubmissions": 43,
+    "accuracy": 84.027777777777786
+},
+{
+    "problemCode": "CHEFZERO",
+    "problemName": "Chef and Condition Zero (Challenge)",
+    "successfulSubmissions": 43,
+    "accuracy": 60
+},
+{
+    "problemCode": "CKROACH",
+    "problemName": "Killing Gs",
+    "successfulSubmissions": 44,
+    "accuracy": 86.390532544378701
+},
+{
+    "problemCode": "LAND",
+    "problemName": "The Great Plain",
+    "successfulSubmissions": 44,
+    "accuracy": 71.808510638297875
+},
+{
+    "problemCode": "STEPAVG",
+    "problemName": "Stepping Average",
+    "successfulSubmissions": 47,
+    "accuracy": 66.84210526315789
+},
+{
+    "problemCode": "LMATRIX2",
+    "problemName": "Make It Zero 2",
+    "successfulSubmissions": 48,
+    "accuracy": 61.818181818181813
+},
+{
+    "problemCode": "DIVLAND",
+    "problemName": "Division of Lands",
+    "successfulSubmissions": 49,
+    "accuracy": 41.666666666666671
+},
+{
+    "problemCode": "SEASORT2",
+    "problemName": "Sereja and Sorting 2",
+    "successfulSubmissions": 49,
+    "accuracy": 69.523809523809518
+},
+{
+    "problemCode": "SEASOR",
+    "problemName": "Sereja and Sorting",
+    "successfulSubmissions": 50,
+    "accuracy": 67.032967032967022
+},
+{
+    "problemCode": "CLOSEST",
+    "problemName": "Closest Points",
+    "successfulSubmissions": 52,
+    "accuracy": 32.32169954476479
+},
+{
+    "problemCode": "KALKI",
+    "problemName": "Kali and Devtas",
+    "successfulSubmissions": 52,
+    "accuracy": 68.27956989247312
+},
+{
+    "problemCode": "SPELL",
+    "problemName": "The Spelling Problem",
+    "successfulSubmissions": 53,
+    "accuracy": 58.723404255319146
+},
+{
+    "problemCode": "TOLLS",
+    "problemName": "Pricing Tollbooths",
+    "successfulSubmissions": 53,
+    "accuracy": 85.222121486854036
+},
+{
+    "problemCode": "DLDAG",
+    "problemName": "(Challenge) Delete DAG",
+    "successfulSubmissions": 56,
+    "accuracy": 45.876288659793815
+},
+{
+    "problemCode": "CHORCKIT",
+    "problemName": "(Challenge) Chef with Orchestra in the Kitchen",
+    "successfulSubmissions": 59,
+    "accuracy": 70
+},
+{
+    "problemCode": "PRITREE",
+    "problemName": "Chef, Primes and Trees (Challenge)",
+    "successfulSubmissions": 59,
+    "accuracy": 72.033898305084747
+},
+{
+    "problemCode": "SIMGRAPH",
+    "problemName": "Similar Graphs",
+    "successfulSubmissions": 59,
+    "accuracy": 63.46153846153846
+},
+{
+    "problemCode": "EFFPAINT",
+    "problemName": "Efficient Painting",
+    "successfulSubmissions": 61,
+    "accuracy": 63.257575757575758
+},
+{
+    "problemCode": "DELNMS",
+    "problemName": "Deleting numbers",
+    "successfulSubmissions": 63,
+    "accuracy": 60.96866096866097
+},
+{
+    "problemCode": "MAXRECT",
+    "problemName": "Maximum Sub-rectangle in Matrix",
+    "successfulSubmissions": 63,
+    "accuracy": 38.049713193116638
+},
+{
+    "problemCode": "SEAPERM",
+    "problemName": "Sereja and Permutation",
+    "successfulSubmissions": 79,
+    "accuracy": 70.958083832335333
+},
+{
+    "problemCode": "THREECLR",
+    "problemName": "Coloring Colorable Graphs",
+    "successfulSubmissions": 79,
+    "accuracy": 47.844827586206897
+},
+{
+    "problemCode": "CHEFPNT",
+    "problemName": "Chef and Painting",
+    "successfulSubmissions": 84,
+    "accuracy": 49.6875
+},
+{
+    "problemCode": "MINESWPR",
+    "problemName": "Minesweeper",
+    "successfulSubmissions": 95,
+    "accuracy": 53.903345724907062
+},
+{
+    "problemCode": "NSUDOKU",
+    "problemName": "Sudoku Solver",
+    "successfulSubmissions": 105,
+    "accuracy": 16
+},
+{
+    "problemCode": "CHAORNOT",
+    "problemName": "To challenge or not",
+    "successfulSubmissions": 106,
+    "accuracy": 54.385964912280706
+},
+{
+    "problemCode": "CHALENGE",
+    "problemName": "Password Cracking Challenge",
+    "successfulSubmissions": 113,
+    "accuracy": 66.451612903225808
+},
+{
+    "problemCode": "CHEFPAR",
+    "problemName": "Chef and Array (Challenge)",
+    "successfulSubmissions": 126,
+    "accuracy": 69.762419006479476
+},
+{
+    "problemCode": "SORTROW",
+    "problemName": "(CH) Bear and Sorted Rows",
+    "successfulSubmissions": 129,
+    "accuracy": 74.914089347079042
+},
+{
+    "problemCode": "GERALD09",
+    "problemName": "Chef and Rectangle Genome",
+    "successfulSubmissions": 137,
+    "accuracy": 76.808510638297875
+},
+{
+    "problemCode": "TLCS",
+    "problemName": "Longest Common Subsequence",
+    "successfulSubmissions": 154,
+    "accuracy": 19.320594479830149
+},
+{
+    "problemCode": "COVDSMPL",
+    "problemName": "Covid Sampling (Challenge)",
+    "successfulSubmissions": 172,
+    "accuracy": 44.061302681992338
+},
+{
+    "problemCode": "SEAVEC",
+    "problemName": "Sereja and Vectors",
+    "successfulSubmissions": 192,
+    "accuracy": 62.286860581745238
+},
+{
+    "problemCode": "RAISINS",
+    "problemName": "(Challenge) Raisins",
+    "successfulSubmissions": 391,
+    "accuracy": 71.68597168597168
+},
+{
+    "problemCode": "ANSLEAK",
+    "problemName": "Leaked Answers (Challenge)",
+    "successfulSubmissions": 413,
+    "accuracy": 76.941457586618881
+},
+{
+    "problemCode": "RECTARAN",
+    "problemName": "Moving Rectangles (Challenge)",
+    "successfulSubmissions": 506,
+    "accuracy": 84
+},
+{
+    "problemCode": "FACTORIZ",
+    "problemName": "Factorisation",
+    "successfulSubmissions": 554,
+    "accuracy": 41.712605659683938
+}]

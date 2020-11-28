@@ -1,0 +1,11 @@
+.OuterBox {
+    /* /* display: flex;
+    flex-direction: column; */
+    width: 100%;
+    height: 160px;
+    /* border-color: turquoise; */
+    /* background-color: violet; */
+    border-bottom: gray;
+    border-bottom-style: solid;
+    margin-bottom: 40px;
+}

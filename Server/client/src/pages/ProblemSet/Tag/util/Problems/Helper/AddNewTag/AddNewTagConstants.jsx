@@ -1,0 +1,1 @@
+export const ADD_NEW_TAG = "ADD_NEW_TAG";

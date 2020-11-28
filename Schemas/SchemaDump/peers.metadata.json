@@ -1,0 +1,1 @@
+{"options":{},"indexes":[{"v":{"$numberInt":"2"},"key":{"_id":{"$numberInt":"1"}},"name":"_id_","ns":"codechef_internship.peers"},{"v":{"$numberInt":"2"},"unique":true,"key":{"problemCode":{"$numberInt":"1"}},"name":"problemCode_1","ns":"codechef_internship.peers","background":true}],"uuid":"61f136b7879c442cbdb15645b4453855"}

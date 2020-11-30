@@ -15,8 +15,12 @@ Backend :
 	2) MongoDB as a database ( I search everywhere for MySql but I didn't get it. I even tried to use AWS MySql but there was a cost related to it. That's why I used mongoDB. I am very deeply sorry for that ).
 	
 	3) NodeJs and postman to fetch data from the CodeChef API.
+	
 
-Hosted : Heroku ( link : https://codemate-gunjan768.herokuapp.com/ )
+Hosted : 
+
+	Heroku ( link : https://codemate-gunjan768.herokuapp.com/ )
+
 
                                                CodeMate ( APP NAME )
                                                           

@@ -1,15 +1,14 @@
 						STACKS AND TECHNOLOGIES
 					
 Frontend : 
-	HTML and CSS
-	React, redux ( as a global store )
-	Many third part libraries like redux toastr, redux form, localtunnel etc.
+	1) HTML and CSS
+	2) React, redux ( as a global store )
+	3) Many third part libraries like redux toastr, redux form, localtunnel etc.
 	
 Backend :
-	PHP as a backend environment
-	MongoDB as a database ( I search everywhere for MySql but I didn't get it. I even tried to use AWS MySql but there was a cost related to it. That's why I used mongoDB.
-			        I am very deeply sorry for that )
-	NodeJs and postman to fetch data from the CodeChef API.
+	1) PHP as a backend environment
+	2) MongoDB as a database ( I search everywhere for MySql but I didn't get it. I even tried to use AWS MySql but there was a cost related to it. That's why I used 					   mongoDB. I am very deeply sorry for that )
+	3) NodeJs and postman to fetch data from the CodeChef API.
 
                                                CodeMate ( APP NAME )
                                                           

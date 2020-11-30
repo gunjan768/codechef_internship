@@ -17,12 +17,10 @@ Backend :
 	3) NodeJs and postman to fetch data from the CodeChef API.
 	
 	
-					       Hosted : 
-					       
-	Heroku ( link : https://codemate-gunjan768.herokuapp.com/ )
+Hosted : Heroku ( link : https://codemate-gunjan768.herokuapp.com/ )
 
 
-                                               CodeMate ( APP NAME )
+                                             CodeMate ( APP NAME )
                                                           
 
 This is an internship project which focuses mainly on the problem's pages. There are 2 separate pages ( like codechef ) for problems. First page shows you questions distributed section wise ( easy, medium, hard etc ) with a beautiful pagination option. Second page will let you choose your favourite problems according to the tag(s) you provide. There are start ( landing ) and profile pages too. Lets discuss about problem pages.

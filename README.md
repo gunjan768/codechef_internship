@@ -16,9 +16,9 @@ Backend :
 	
 	3) NodeJs and postman to fetch data from the CodeChef API.
 	
-
-Hosted : 
-
+	
+					       Hosted : 
+					       
 	Heroku ( link : https://codemate-gunjan768.herokuapp.com/ )
 
 

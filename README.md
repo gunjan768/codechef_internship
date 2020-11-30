@@ -1,6 +1,7 @@
 						STACKS AND TECHNOLOGIES
 					
 Frontend : 
+	
 	1) HTML and CSS
 	
 	2) React, redux ( as a global store )
@@ -8,6 +9,7 @@ Frontend :
 	3) Many third part libraries like redux toastr, redux form, localtunnel etc.
 	
 Backend :
+	
 	1) PHP as a backend environment
 	
 	2) MongoDB as a database ( I search everywhere for MySql but I didn't get it. I even tried to use AWS MySql but there was a cost related to it. That's why I used 					   mongoDB. I am very deeply sorry for that )

@@ -1,7 +1,7 @@
 # codechef_internship
 Codechef internship project using React
 
-                                                          CodeMate ( APP NAME )
+                                               CodeMate ( APP NAME )
                                                           
 
 This is an internship project which focuses mainly on the problem's pages. There are 2 separate pages ( like codechef ) for problems. First page shows you questions distributed section wise

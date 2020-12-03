@@ -6,7 +6,7 @@ Frontend :
 	
 	2) React, redux ( as a global store )
 	
-	3) Many third part libraries like redux toastr, redux form, localtunnel etc.
+	3) Many third part libraries like redux toastr, redux form, localtunnel, semantic ui etc.
 	
 Backend :
 	

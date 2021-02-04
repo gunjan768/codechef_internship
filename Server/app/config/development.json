@@ -1,0 +1,7 @@
+{
+    "host": "http://localhost:3000",
+    "MONGO_USER": "gunjan768",
+    "MONGO_PASSWORD": "emilia12",
+    "MONGO_DB": "codechef_internship",
+    "JWT_ACCESS_SECRET_KEY": "IiPpjLZKDMxnVABw5RZV7IghQdT8jYf5T7R7lYtFhqtTxiMugl19kPrtScr6fkfY"
+}

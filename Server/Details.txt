@@ -1,0 +1,24 @@
+https://docs.mongodb.com/manual/reference/operator/aggregation/unwind/index.html
+https://docs.mongodb.com/manual/reference/operator/query/in/
+https://docs.mongodb.com/manual/reference/operator/aggregation/match/index.html
+https://docs.mongodb.com/manual/reference/operator/aggregation/group/
+https://docs.mongodb.com/manual/reference/operator/aggregation/in/
+https://docs.mongodb.com/manual/reference/operator/aggregation/cond/
+https://docs.mongodb.com/manual/reference/operator/aggregation/filter/
+https://docs.mongodb.com/manual/reference/operator/projection/elemMatch/
+
+
+https://stackoverflow.com/questions/3985214/retrieve-only-the-queried-element-in-an-object-array-in-mongodb-collection
+https://www.xspdf.com/resolution/58011210.html  ( Details for some frequently used operators )
+https://stackoverflow.com/questions/58594891/how-to-match-a-string-in-array-of-elements-in-mongodb
+https://stackoverflow.com/questions/29071748/find-in-double-nested-array-mongodb
+https://stackoverflow.com/questions/27874469/mongodb-push-in-nested-array
+https://stackoverflow.com/questions/30537317/mongodb-aggregation-match-if-value-in-array
+https://stackoverflow.com/questions/5539955/how-to-paginate-with-mongoose-in-node-js#:~:text=Try%20using%20mongoose%20function%20for,and%20number%20of%20the%20page.&text=var%20paginate%20%3D%2020%3B%20var%20page,find(%7B%7D).
+
+
+Deploying ...
+ 
+Backend 
+
+https://devcenter.heroku.com/articles/renaming-apps#updating-git-remotes    ( for renaming app )

@@ -1,0 +1,104 @@
+						INTRODUCTION
+
+Good evening sir, I am Gunjan from NIT JAMSHEDPUR 3rd year CSE branch. I have been born and brought up in Ranchi, Jharkhand. Coming to my hobbies are teaching and watching science
+friction movies. My long term goal is to have a well balanced life.
+
+						STACKS AND TECHNOLOGIES
+					
+Frontend : 
+	
+	1) HTML and CSS
+	
+	2) React, redux ( as a global store )
+	
+	3) Many third party libraries like redux toastr, redux form, localtunnel ( to get a feeling of production mode without originally deploying the app ), semantic ui, 
+	   material ui etc.
+	
+Backend :
+	
+	1) PHP as a backend environment
+	
+	2) MongoDB as a database ( I search everywhere for MySql but I didn't get it. I even tried to use AWS MySql but there was a cost related to it. That's why I used mongoDB. 
+	   I am very deeply sorry for that ).
+	
+	3) NodeJs and postman to fetch data from the CodeChef API.
+	
+	
+Hosted : Heroku ( link : https://codemate-gunjan768.herokuapp.com/ )
+
+
+                                             CodeMate ( APP NAME )
+                                                          
+
+This project focuses mainly on the problem's pages. There are 2 separate pages ( like codechef ) for problems. First page consists of questions distributed section wise
+( easy, medium, hard etc ) with a beautiful pagination option. Second page will let you choose your favourite problems according to the tag(s) you provide. There are 
+start ( landing ) and profile pages too. Lets discuss about problem pages.
+
+
+1) Search problem according to the difficulty level : 
+
+	You can distribute your problems according to the difficulty levels. There are 6 such levels : school, easy, medium, hard, challenge and peer. These are in the ascending 		
+	order of difficulties i.e first one is least difficult and last is worst. Problems are showm in a well structured table. You can click on problem to know more about it.
+
+2) Search problem by Tags : 
+
+	This module will display all the tags that are available. You can, anytime, filter the tags with the options availabe like you can see only those tags that are authors. 
+	To filter out the tags there are switches ( author, concepts and private tags ( if your are logged in ) ) which you can either keep "on" or "off". Concepts tag
+	will include all those tags that are realated to the question's topics ( like dp, dfs etc ). Private tag will contain tags which are created by user. User can create
+	and add tag to the problem. User can only add the tag iff it is not already present i.e. with the same name there can't be two tags attached to the question.
+
+	There is a search bar available which accepts both single and multiple tags and fetch all problems that includes all these tags. Our seach bar works on "AND" rather
+	than on "OR". It means it will only fetch those problems that includes all the tags ( both system and user defined ) which are provided by the user. If you are logged
+	in then you will see separate switch for the user defind tags. This section will have all the tags that are defined by the user.
+
+	There is a "ADD TAG" button which lets you add your own tag to the problem. Remember that these user defined tags are user specific and will not be visible to others. 		
+	But to use this feature you have to be logged in.
+
+
+There are other features also like to show the error there is modal, to display each and every activites of yours there is a pop up with different colors ( red for danger, green 
+for success , yellow for warning ) and many more.
+
+
+
+					Challenges faced during the project making
+
+
+Let's divide the challenges into several parts : 
+
+1) First I will discuss the problems I faced while creating User Interface. I was struggling to choose the right interface so that it would be completely from user's prospective like
+light weight and user friendly. What color should I choose for the background, where should I keep these things on the screen. What structure is most suitable for the project ??
+To handle these situations I took help from several coding sites. And at last I decided to imitate the Codechef only.
+
+2) Coming to the backend part. For functional requirements like registration and login sytem, add and create tags, problem display page and logout module. But my main focus was 
+regarding the non functional requirements which includes performance, security, reliablity and effectiveness. This is the wrost problem I faced as it will only determine my 
+overall running application. To overcome this lets have a line by line solutions :
+
+	Regarding the security : 
+
+There were many solutions to this problem but I had to choose the best one out wrt my app functionalities. So I chose JSON WEB TOKEN ( JWT ) to handle 
+all the authentication and authrization process. JWT uses access token along with the hashing and salting which makes it one of the secure way of authentication. Salt is an 
+additonal string which is used in the hashing technique to make the string more complex to break.
+
+
+	Regarding performance and effectiveness :
+ 
+This is the real one and also my favourite one. It is realted to the database, the way of writing the queries, the way of structuring
+the database schema and many more. To make our app performant, I used effective queries and indexes like for sorting.
+
+Lets take an example to understand what is meant by writing effective queries : Take two arrays in which you have to find the matching elements. One array consits of strings 
+i.e tags. Lets call it array 'a'. As I said our search box can have multiple tags and it is "AND" based. In that multiple tags there might be both system tags and user
+created tags. Now we want all the questions which has all these tags. Here main role played is our Schema. How should I structure my schema so that I can easily overcome this
+type of situation. Now coming to Second array which is inside a database and it is a collection of objects where each object further contains nested string and array. Lets 
+call it array b. We are diving deep into the nested structure. But we have to keep in mind the level of nesting. Two to three levels of nesting is fine. Now we want to check 
+our array 'a' against the array 'b'. We want only those items from array 'b' which matches all the elements of array 'a'. In other words we want those questions from array b 
+whose internal nested tag array contains all the tags present in the array 'a'. One way to tackling is to take out the whole array 'b' from the database. Using javascript, we
+will manually check the array 'b' against array 'a' with the help of for loop. This is not an efficient way. Why ?? Because we don't the whole array 'b' , we want subset of 
+it only.  
+
+Efficient way is not to take out the whole array 'b'. We need to write some queries which takes out the subset of array 'b' which matches the condition. For this purpose
+MongoDB has various inbuilt operators like $elemMatch, $aggregate etc.
+
+I have also used indexes to make our search more faster. Like I took 'email id' as an index and keep the documents in the database according the ascending order of email id.
+During insertion of any new document it will take little bit nore time as we need the find the right place of this docement ( as sorted in ascending order ). But while 
+finding the document it will be very fast as MongoDB already know the right postion of the document inside it. We can assume time complexities difference of searching 
+using Binary search and using normal search. Binary search takes logn where as normal search takes O(n). This is the use of index.

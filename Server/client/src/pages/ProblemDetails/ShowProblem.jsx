@@ -1,6 +1,8 @@
 import React from 'react'
 // import { Button, Icon, Image, Modal } from 'semantic-ui-react'
 import {useLocation} from 'react-router-dom'
+import withErrorHandler from '../../features/hoc/withErrorHandler/withErrorHandler';
+import axios from '../../features/api/axios';
 
 const ModalExampleScrollingContent = () => 
 {
@@ -9,7 +11,8 @@ const ModalExampleScrollingContent = () =>
     return (
         <React.Fragment>
             {
-                location.state && location.state.body && <div 
+                location.state && location.state.body && 
+                <div 
                     dangerouslySetInnerHTML =
                     {{
                         __html: location.state.body
@@ -23,4 +26,4 @@ const ModalExampleScrollingContent = () =>
     );
 }
 
-export default ModalExampleScrollingContent
+export default  withErrorHandler(ModalExampleScrollingContent, axios);
